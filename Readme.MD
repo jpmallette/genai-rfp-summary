@@ -9,10 +9,10 @@ This repository showcases different applications of Generative AI for RFP Summar
 
 ## Project Structure and Files
 
-- `rfp_summary_app.py`: Streamlit Prototype Application Gen AI for RFP Summary.
-- `rfp_summary.ipynb`: Jupyter Notebook that worked toward the RFP Summary application.
-- `accuracy_app.py`: streamlit applications to visualize the accuracy of output of the summary
-- `app.py`: Pre-Production Application Gen AI for RFP Summary.
+- `rfp_summary_st_prototype_app.py`: Streamlit Prototype Application Gen AI for RFP Summary.
+- `rfp_summary.ipynb`: Jupyter Notebook that worked toward the RFP Summary application. Contains script for hyperparameters tuning.
+- `accuracy_st_app.py`: streamlit applications to visualize the accuracy of output of the summary
+- `rfp_summary_preprod_app.py`: Pre-Production Application Gen AI for RFP Summary.
 - `Data/`: Directory containing data files (RFP, data, prompt, output test, etc)
 - `HTML-CSS/`: Directory containing HTML and CSS files for the web application.
 - `static/`: Directory containing static files for the web application.
