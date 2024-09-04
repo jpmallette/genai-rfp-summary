@@ -1,0 +1,1780 @@
+,field,chatgpt_value,run_number,config
+0,Incumbent Supplier,XYZ Transit Company,1,gpt-4o
+1,Pricing Type,"Fixed-price, rate per hour",1,gpt-4o
+2,Region Area Name,NY - Manhattan,1,gpt-4o
+3,Vehicle Provider,Bus.com,1,gpt-4o
+4,Contract Duration (Months),60,1,gpt-4o
+5,Estimated Contract Value (converted),"$5,000,000",1,gpt-4o
+6,Event End Date,2024-07-15,1,gpt-4o
+7,Number of Awarded Vendors,1,1,gpt-4o
+8,Number of Buses,20,1,gpt-4o
+9,Posted Date,2023-03-20,1,gpt-4o
+10,Prebid Attendance,Mandatory,1,gpt-4o
+11,Subcontracting Allowed,Yes,1,gpt-4o
+12,Vehicle Fuel Type,Electric,1,gpt-4o
+13,Financial Guarantee Details,Bid bond of 5% of contract value required,1,gpt-4o
+14,Lost Reason,RFP - Not highest score,1,gpt-4o
+15,Technology Needed,1,1,gpt-4o
+16,Contract Extension Term,24,1,gpt-4o
+17,Insurance Requirements,"General liability coverage of $1,000,000 required",1,gpt-4o
+18,Living Wage Requirements,Yes,1,gpt-4o
+19,Description,Provide transit services for the city center area including bus transportation and maintenance.,1,gpt-4o
+20,Pre-Bid Conference,"2023-04-10, 10:00 a.m",1,gpt-4o
+21,RFP Service Type,Transit,1,gpt-4o
+22,Account Name,City of New York Department of Transportation,1,gpt-4o
+23,Award Type,Single,1,gpt-4o
+24,Bidder References Required,Yes,1,gpt-4o
+25,Contact: Email,john.doe@example.com,1,gpt-4o
+26,Contact: Phone,123-456-7890,1,gpt-4o
+27,Contact: Title,Transportation Manager,1,gpt-4o
+28,Deadline for Questions,2023-04-25,1,gpt-4o
+29,Estimated Supplier Amount (converted),"$4,500,000",1,gpt-4o
+30,Event Start Date,2024-07-16,1,gpt-4o
+31,Facility Provided by Agency,No,1,gpt-4o
+32,Fleet Requirement,Yes,1,gpt-4o
+33,Fuel Provided By,Agency,1,gpt-4o
+34,Last Addendum Date,2023-04-05,1,gpt-4o
+35,Maintenance Provided by Agency,No,1,gpt-4o
+36,Parking Provided by Agency,Yes,1,gpt-4o
+37,Proposal Deadline Date,2023-05-15,1,gpt-4o
+38,Proposal Writer,ABC Consulting Firm,1,gpt-4o
+39,RFP Name,City Center Transit Services RFP,1,gpt-4o
+40,Submission Type,Electronic,1,gpt-4o
+41,Technology Partner,Tech Solutions Inc.,1,gpt-4o
+42,Evaluation Criteria,20 Points - Operational Efficiency: The efficiency of proposed transit operations and maintenance. 15 Points - Experience: Previous experience providing transit services in urban settings. 10 Points - Price Competitiveness: Cost competitiveness of the proposal. 25 Points - Maintenance Plan: The quality and feasibility of the maintenance plan. 30 Points - Innovation: Innovative approaches and technologies proposed.,1,gpt-4o
+43,Options to Renew,The contract will initially commence on 2023-07-15 and includes two optional 12-month extensions.,1,gpt-4o
+44,Bidder References Description,References must be from previous transit service clients.,1,gpt-4o
+45,Disadvantaged Business Requirements,No,1,gpt-4o
+46,Facility Notes,No dedicated transit facility provided.,1,gpt-4o
+47,Fleet Requirement Comments,Fleet must include at least 5 hybrid buses.,1,gpt-4o
+48,Fuel Notes,Agency will provide electric charging stations.,1,gpt-4o
+49,Liquidated Damage Information,"Liquidated damages of $1,000 per day for late service",1,gpt-4o
+50,Liquidated Damages,Penalties of $500/day for failure to maintain bus fleet,1,gpt-4o
+51,Living Wage Comments,Living wage requirement set at $15 per hour.,1,gpt-4o
+52,Lost Deal Context,Lost bids due to price competitiveness in a tight market.,1,gpt-4o
+53,Maintenance Notes,Maintenance must be outsourced to an approved vendor.,1,gpt-4o
+54,Parking Notes,Parking facilities available for bus fleet storage.,1,gpt-4o
+55,Supplier Partner,Preferred supplier of bus parts listed in RFP specifications.,1,gpt-4o
+56,Technology Description,Advanced GPS tracking system required for real-time bus monitoring.,1,gpt-4o
+57,Incumbent Supplier,,2,gpt-4o
+58,Pricing Type,,2,gpt-4o
+59,Region Area Name,,2,gpt-4o
+60,Vehicle Provider,Bus.com,2,gpt-4o
+61,Contract Duration (Months),96,2,gpt-4o
+62,Estimated Contract Value (converted),"$19,680,000",2,gpt-4o
+63,Event End Date,2026-07-30,2,gpt-4o
+64,Number of Awarded Vendors,1,2,gpt-4o
+65,Number of Buses,52,2,gpt-4o
+66,Posted Date,2022-07-26,2,gpt-4o
+67,Prebid Attendance,Mandatory,2,gpt-4o
+68,Subcontracting Allowed,No,2,gpt-4o
+69,Vehicle Fuel Type,Diesel,2,gpt-4o
+70,Financial Guarantee Details,,2,gpt-4o
+71,Lost Reason,RFP - Price only bid,2,gpt-4o
+72,Technology Needed,0,2,gpt-4o
+73,Contract Extension Term,36,2,gpt-4o
+74,Insurance Requirements,,2,gpt-4o
+75,Living Wage Requirements,No,2,gpt-4o
+76,Description,,2,gpt-4o
+77,Pre-Bid Conference,,2,gpt-4o
+78,RFP Service Type,Transit,2,gpt-4o
+79,Account Name,City of Wilmington,2,gpt-4o
+80,Award Type,Single,2,gpt-4o
+81,Bidder References Required,No,2,gpt-4o
+82,Contact: Email,procurement@wilmington.gov,2,gpt-4o
+83,Contact: Phone,555-123-4567,2,gpt-4o
+84,Contact: Title,Procurement Manager,2,gpt-4o
+85,Deadline for Questions,2023-09-29,2,gpt-4o
+86,Estimated Supplier Amount (converted),"$24,000,000",2,gpt-4o
+87,Event Start Date,2022-08-01,2,gpt-4o
+88,Facility Provided by Agency,No,2,gpt-4o
+89,Fleet Requirement,Yes,2,gpt-4o
+90,Fuel Provided By,Bus.com,2,gpt-4o
+91,Last Addendum Date,2022-09-15,2,gpt-4o
+92,Maintenance Provided by Agency,No,2,gpt-4o
+93,Parking Provided by Agency,No,2,gpt-4o
+94,Proposal Deadline Date,2022-10-28,2,gpt-4o
+95,Proposal Writer,Transport Solutions Team,2,gpt-4o
+96,RFP Name,Transit Services RFP - Wilmington Public Transit,2,gpt-4o
+97,Submission Type,Electronic,2,gpt-4o
+98,Technology Partner,,2,gpt-4o
+99,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support
+resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100",2,gpt-4o
+100,Options to Renew,The initial contract commences in 2022 with options for three one-year extensions,2,gpt-4o
+101,Bidder References Description,,2,gpt-4o
+102,Disadvantaged Business Requirements,No,2,gpt-4o
+103,Facility Notes,,2,gpt-4o
+104,Fleet Requirement Comments,,2,gpt-4o
+105,Fuel Notes,,2,gpt-4o
+106,Liquidated Damage Information,,2,gpt-4o
+107,Liquidated Damages,,2,gpt-4o
+108,Living Wage Comments,,2,gpt-4o
+109,Lost Deal Context,Bandwidth and experience issues in competing against larger companies,2,gpt-4o
+110,Maintenance Notes,,2,gpt-4o
+111,Parking Notes,,2,gpt-4o
+112,Supplier Partner,,2,gpt-4o
+113,Technology Description,,2,gpt-4o
+114,Incumbent Supplier,Travelers Transit,3,gpt-4o
+115,Pricing Type,Fixed Price,3,gpt-4o
+116,Region Area Name,UT - Salt Lake City,3,gpt-4o
+117,Vehicle Provider,Bus.com,3,gpt-4o
+118,Contract Duration (Months),60,3,gpt-4o
+119,Estimated Contract Value (converted),7600000,3,gpt-4o
+120,Event End Date,2023-05-12,3,gpt-4o
+121,Number of Awarded Vendors,1,3,gpt-4o
+122,Number of Buses,10,3,gpt-4o
+123,Posted Date,2022-04-12,3,gpt-4o
+124,Prebid Attendance,Mandatory,3,gpt-4o
+125,Subcontracting Allowed,Yes,3,gpt-4o
+126,Vehicle Fuel Type,Electric,3,gpt-4o
+127,Financial Guarantee Details,Performance Bond and Liability Insurance,3,gpt-4o
+128,Lost Reason,RFP - Not highest score,3,gpt-4o
+129,Technology Needed,1,3,gpt-4o
+130,Contract Extension Term,36,3,gpt-4o
+131,Insurance Requirements,Commercial General Liability with $2M per occurrence and $4M aggregate,3,gpt-4o
+132,Living Wage Requirements,No,3,gpt-4o
+133,Description,"This RFP seeks an operator to provide transit services in Salt Lake City, Utah. The services include the provision of 10 electric buses for a fixed-price contract lasting 5 years.",3,gpt-4o
+134,Pre-Bid Conference,"2022-04-25, 10:00 a.m.",3,gpt-4o
+135,RFP Service Type,Transit,3,gpt-4o
+136,Account Name,Salt Lake City Transportation Department,3,gpt-4o
+137,Award Type,Single,3,gpt-4o
+138,Bidder References Required,No,3,gpt-4o
+139,Contact: Email,info@saltlakecitytransit.com,3,gpt-4o
+140,Contact: Phone,555-123-4567,3,gpt-4o
+141,Contact: Title,John Smith,3,gpt-4o
+142,Deadline for Questions,2022-04-25,3,gpt-4o
+143,Estimated Supplier Amount (converted),7000000,3,gpt-4o
+144,Event Start Date,2023-05-12,3,gpt-4o
+145,Facility Provided by Agency,No,3,gpt-4o
+146,Fleet Requirement,Yes,3,gpt-4o
+147,Fuel Provided By,Vendor,3,gpt-4o
+148,Last Addendum Date,2022-05-02,3,gpt-4o
+149,Maintenance Provided by Agency,No,3,gpt-4o
+150,Parking Provided by Agency,No,3,gpt-4o
+151,Proposal Deadline Date,2022-05-12,3,gpt-4o
+152,Proposal Writer,Bids R Us Team,3,gpt-4o
+153,RFP Name,Salt Lake City Transit Services RFP,3,gpt-4o
+154,Submission Type,Electronic,3,gpt-4o
+155,Technology Partner,Tech Solutions Inc.,3,gpt-4o
+156,Evaluation Criteria,25 Points - Management and Technical Competence:... 20 Points - Capability and Experience:... 5 Points - Financial Viability... 15 Points - Quality of Plans and Submittals... 25 Points - Price Proposal... 10 Points - Retention of Existing Employees... Total Points = 100,3,gpt-4o
+157,Options to Renew,"The initial contract is for 5 years, with an option to extend for an additional 3 years.",3,gpt-4o
+158,Bidder References Description,Contacts of previous transit service clients,3,gpt-4o
+159,Disadvantaged Business Requirements,Yes,3,gpt-4o
+160,Facility Notes,N/A,3,gpt-4o
+161,Fleet Requirement Comments,All buses must be ADA-compliant,3,gpt-4o
+162,Fuel Notes,Electric charging infrastructure needed,3,gpt-4o
+163,Liquidated Damage Information,Liquidated damages are specified at $1000 per day of service interruption,3,gpt-4o
+164,Liquidated Damages,Yes,3,gpt-4o
+165,Living Wage Comments,N/A,3,gpt-4o
+166,Lost Deal Context,The bid lost due to not achieving the highest score in the evaluation process.,3,gpt-4o
+167,Maintenance Notes,Vendor responsible for all maintenance,3,gpt-4o
+168,Parking Notes,N/A,3,gpt-4o
+169,Supplier Partner,None specified,3,gpt-4o
+170,Technology Description,Required GPS tracking on all buses,3,gpt-4o
+171,Incumbent Supplier,,4,gpt-4o
+172,Pricing Type,,4,gpt-4o
+173,Region Area Name,,4,gpt-4o
+174,Vehicle Provider,,4,gpt-4o
+175,Contract Duration (Months),,4,gpt-4o
+176,Estimated Contract Value (converted),,4,gpt-4o
+177,Event End Date,,4,gpt-4o
+178,Number of Awarded Vendors,,4,gpt-4o
+179,Number of Buses,,4,gpt-4o
+180,Posted Date,,4,gpt-4o
+181,Prebid Attendance,,4,gpt-4o
+182,Subcontracting Allowed,,4,gpt-4o
+183,Vehicle Fuel Type,,4,gpt-4o
+184,Financial Guarantee Details,,4,gpt-4o
+185,Lost Reason,,4,gpt-4o
+186,Technology Needed,,4,gpt-4o
+187,Contract Extension Term,,4,gpt-4o
+188,Insurance Requirements,,4,gpt-4o
+189,Living Wage Requirements,,4,gpt-4o
+190,Description,,4,gpt-4o
+191,Pre-Bid Conference,,4,gpt-4o
+192,RFP Service Type,,4,gpt-4o
+193,Account Name,,4,gpt-4o
+194,Award Type,,4,gpt-4o
+195,Bidder References Required,,4,gpt-4o
+196,Contact: Email,,4,gpt-4o
+197,Contact: Phone,,4,gpt-4o
+198,Contact: Title,,4,gpt-4o
+199,Deadline for Questions,,4,gpt-4o
+200,Estimated Supplier Amount (converted),,4,gpt-4o
+201,Event Start Date,,4,gpt-4o
+202,Facility Provided by Agency,,4,gpt-4o
+203,Fleet Requirement,,4,gpt-4o
+204,Fuel Provided By,,4,gpt-4o
+205,Last Addendum Date,,4,gpt-4o
+206,Maintenance Provided by Agency,,4,gpt-4o
+207,Parking Provided by Agency,,4,gpt-4o
+208,Proposal Deadline Date,,4,gpt-4o
+209,Proposal Writer,,4,gpt-4o
+210,RFP Name,,4,gpt-4o
+211,Submission Type,,4,gpt-4o
+212,Technology Partner,,4,gpt-4o
+213,Evaluation Criteria,,4,gpt-4o
+214,Options to Renew,,4,gpt-4o
+215,Bidder References Description,,4,gpt-4o
+216,Disadvantaged Business Requirements,,4,gpt-4o
+217,Facility Notes,,4,gpt-4o
+218,Fleet Requirement Comments,,4,gpt-4o
+219,Fuel Notes,,4,gpt-4o
+220,Liquidated Damage Information,,4,gpt-4o
+221,Liquidated Damages,,4,gpt-4o
+222,Living Wage Comments,,4,gpt-4o
+223,Lost Deal Context,,4,gpt-4o
+224,Maintenance Notes,,4,gpt-4o
+225,Parking Notes,,4,gpt-4o
+226,Supplier Partner,,4,gpt-4o
+227,Technology Description,,4,gpt-4o
+228,Incumbent Supplier,Triton Transit,5,gpt-4o
+229,Pricing Type,"Fixed-Price, Rate per Hour",5,gpt-4o
+230,Region Area Name,CA - San Francisco,5,gpt-4o
+231,Vehicle Provider,Bus.com,5,gpt-4o
+232,Contract Duration (Months),48,5,gpt-4o
+233,Estimated Contract Value (converted),"$640,000",5,gpt-4o
+234,Event End Date,2023-12-31,5,gpt-4o
+235,Number of Awarded Vendors,Single,5,gpt-4o
+236,Number of Buses,25,5,gpt-4o
+237,Posted Date,2022-02-15,5,gpt-4o
+238,Prebid Attendance,Mandatory,5,gpt-4o
+239,Subcontracting Allowed,Yes,5,gpt-4o
+240,Vehicle Fuel Type,Electric,5,gpt-4o
+241,Financial Guarantee Details,Performance Bond,5,gpt-4o
+242,Lost Reason,RFP - Not highest score,5,gpt-4o
+243,Technology Needed,1,5,gpt-4o
+244,Contract Extension Term,24,5,gpt-4o
+245,Insurance Requirements,"General Liability - $1,000,000",5,gpt-4o
+246,Living Wage Requirements,Yes,5,gpt-4o
+247,Description,Provide transportation services for local events and shuttles.,5,gpt-4o
+248,Pre-Bid Conference,"2022-03-02, 10:00 a.m",5,gpt-4o
+249,RFP Service Type,Transportation,5,gpt-4o
+250,Account Name,San Francisco Events Agency,5,gpt-4o
+251,Award Type,Single,5,gpt-4o
+252,Bidder References Required,No,5,gpt-4o
+253,Contact: Email,contact@sfeventsagency.com,5,gpt-4o
+254,Contact: Phone,555-123-4567,5,gpt-4o
+255,Contact: Title,Sarah Johnson,5,gpt-4o
+256,Deadline for Questions,2022-03-10,5,gpt-4o
+257,Estimated Supplier Amount (converted),"$600,000",5,gpt-4o
+258,Event Start Date,2023-01-01,5,gpt-4o
+259,Facility Provided by Agency,No,5,gpt-4o
+260,Fleet Requirement,Yes,5,gpt-4o
+261,Fuel Provided By,Agency,5,gpt-4o
+262,Last Addendum Date,2022-03-15,5,gpt-4o
+263,Maintenance Provided by Agency,No,5,gpt-4o
+264,Parking Provided by Agency,No,5,gpt-4o
+265,Proposal Deadline Date,2022-03-31,5,gpt-4o
+266,Proposal Writer,Johnson & Co. Proposals,5,gpt-4o
+267,RFP Name,2023 Local Events Transportation RFP,5,gpt-4o
+268,Submission Type,Electronic,5,gpt-4o
+269,Technology Partner,TechSolutions Inc.,5,gpt-4o
+270,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100",5,gpt-4o
+271,Options to Renew,"The initial contract commences on January 1, 2023, with options for three one-year extensions.",5,gpt-4o
+272,Bidder References Description,References should include experience in providing event transportation services.,5,gpt-4o
+273,Disadvantaged Business Requirements,No,5,gpt-4o
+274,Facility Notes,N/A,5,gpt-4o
+275,Fleet Requirement Comments,Fleet must be well-maintained and meet emission standards.,5,gpt-4o
+276,Fuel Notes,Electric charging stations available on-site.,5,gpt-4o
+277,Liquidated Damage Information,N/A,5,gpt-4o
+278,Liquidated Damages,N/A,5,gpt-4o
+279,Living Wage Comments,Living wage requirements as per city regulations.,5,gpt-4o
+280,Lost Deal Context,Price undercutting by competitors.,5,gpt-4o
+281,Maintenance Notes,Maintenance to be outsourced to certified providers.,5,gpt-4o
+282,Parking Notes,Parking for buses available on-site.,5,gpt-4o
+283,Supplier Partner,EventSolutions Inc.,5,gpt-4o
+284,Technology Description,Integration with event management software required.,5,gpt-4o
+285,Incumbent Supplier,ABC Transit Services,6,gpt-4o
+286,Pricing Type,"Fixed-price, Rate per hour",6,gpt-4o
+287,Region Area Name,NY - Manhattan,6,gpt-4o
+288,Vehicle Provider,Bus.com,6,gpt-4o
+289,Contract Duration (Months),36,6,gpt-4o
+290,Estimated Contract Value (converted),"$500,000",6,gpt-4o
+291,Event End Date,2023-05-15,6,gpt-4o
+292,Number of Awarded Vendors,1,6,gpt-4o
+293,Number of Buses,20,6,gpt-4o
+294,Posted Date,2022-03-01,6,gpt-4o
+295,Prebid Attendance,Mandatory,6,gpt-4o
+296,Subcontracting Allowed,Yes,6,gpt-4o
+297,Vehicle Fuel Type,Diesel,6,gpt-4o
+298,Financial Guarantee Details,Proposal bonds required,6,gpt-4o
+299,Lost Reason,RFP - Not highest score,6,gpt-4o
+300,Technology Needed,1,6,gpt-4o
+301,Contract Extension Term,24,6,gpt-4o
+302,Insurance Requirements,General liability insurance needed,6,gpt-4o
+303,Living Wage Requirements,Yes,6,gpt-4o
+304,Description,Provide school bus transportation services for the upcoming school year,6,gpt-4o
+305,Pre-Bid Conference,"2022-03-10, 10:00 a.m",6,gpt-4o
+306,RFP Service Type,Transportation,6,gpt-4o
+307,Account Name,XYZ School District,6,gpt-4o
+308,Award Type,Single,6,gpt-4o
+309,Bidder References Required,Yes,6,gpt-4o
+310,Contact: Email,contact@xyzschool.org,6,gpt-4o
+311,Contact: Phone,123-456-7890,6,gpt-4o
+312,Contact: Title,Transportation Coordinator,6,gpt-4o
+313,Deadline for Questions,2022-03-15,6,gpt-4o
+314,Estimated Supplier Amount (converted),"$450,000",6,gpt-4o
+315,Event Start Date,2023-06-01,6,gpt-4o
+316,Facility Provided by Agency,No,6,gpt-4o
+317,Fleet Requirement,Yes,6,gpt-4o
+318,Fuel Provided By,Supplier,6,gpt-4o
+319,Last Addendum Date,2022-03-20,6,gpt-4o
+320,Maintenance Provided by Agency,No,6,gpt-4o
+321,Parking Provided by Agency,No,6,gpt-4o
+322,Proposal Deadline Date,2022-04-01,6,gpt-4o
+323,Proposal Writer,Transportation Team,6,gpt-4o
+324,RFP Name,School Bus Transportation Services RFP,6,gpt-4o
+325,Submission Type,Electronic,6,gpt-4o
+326,Technology Partner,Tech Solutions Inc.,6,gpt-4o
+327,Evaluation Criteria,"25 Points - Safety and Compliance: Ensuring adherence to all safety regulations and maintaining high compliance standards.
+20 Points - Fleet Reliability: Demonstrating a history of reliable transportation services with minimal downtime.
+15 Points - Driver Qualifications: Evaluation of driver training, certifications, and experience in student transportation.
+25 Points - Pricing Structure: Competitiveness of pricing while ensuring quality service delivery.
+15 Points - Technology Integration: Ability to utilize technology for route optimization and real-time tracking.
+Total Points = 100",6,gpt-4o
+328,Options to Renew,The contract will initially be commencing for 36 months with two 12-month extension options,6,gpt-4o
+329,Bidder References Description,References should include previous school district clients,6,gpt-4o
+330,Disadvantaged Business Requirements,No,6,gpt-4o
+331,Facility Notes,None,6,gpt-4o
+332,Fleet Requirement Comments,Fleet must include buses with seating capacity of at least 40 passengers,6,gpt-4o
+333,Fuel Notes,Fuel should meet state emission standards,6,gpt-4o
+334,Liquidated Damage Information,Liquidated damages set at $1000 per day for late service commencement,6,gpt-4o
+335,Liquidated Damages,Penalties of $200 per day for late service,6,gpt-4o
+336,Living Wage Comments,Wage rates should meet or exceed the state's minimum wage requirements,6,gpt-4o
+337,Lost Deal Context,Lost bids where the company was a subcontractor,6,gpt-4o
+338,Maintenance Notes,Maintenance provider should have experience with school bus servicing,6,gpt-4o
+339,Parking Notes,No additional parking provisions required,6,gpt-4o
+340,Supplier Partner,Local Transportation Co-op,6,gpt-4o
+341,Technology Description,Technology requirements include GPS tracking for buses,6,gpt-4o
+342,Incumbent Supplier,ABC Transportation Inc.,7,gpt-4o
+343,Pricing Type,"Fixed-price, Rate per hour",7,gpt-4o
+344,Region Area Name,NY - Long Island,7,gpt-4o
+345,Vehicle Provider,Agency,7,gpt-4o
+346,Contract Duration (Months),60,7,gpt-4o
+347,Estimated Contract Value (converted),5500000,7,gpt-4o
+348,Event End Date,2023-06-30,7,gpt-4o
+349,Number of Awarded Vendors,1,7,gpt-4o
+350,Number of Buses,30,7,gpt-4o
+351,Posted Date,2022-05-15,7,gpt-4o
+352,Prebid Attendance,Mandatory,7,gpt-4o
+353,Subcontracting Allowed,Yes,7,gpt-4o
+354,Vehicle Fuel Type,Diesel,7,gpt-4o
+355,Financial Guarantee Details,Letter of Credit,7,gpt-4o
+356,Lost Reason,RFP - Not highest score,7,gpt-4o
+357,Technology Needed,0,7,gpt-4o
+358,Contract Extension Term,24,7,gpt-4o
+359,Insurance Requirements,General Liability,7,gpt-4o
+360,Living Wage Requirements,Yes,7,gpt-4o
+361,Description,The RFP is requesting transportation services for a period of 5 years.,7,gpt-4o
+362,Pre-Bid Conference,"2022-06-01, 10:00 a.m",7,gpt-4o
+363,RFP Service Type,Transportation,7,gpt-4o
+364,Account Name,ABC Transit Authority,7,gpt-4o
+365,Award Type,Single,7,gpt-4o
+366,Bidder References Required,Yes,7,gpt-4o
+367,Contact: Email,contact@abctransitauthority.com,7,gpt-4o
+368,Contact: Phone,123-456-7890,7,gpt-4o
+369,Contact: Title,Jane Doe,7,gpt-4o
+370,Deadline for Questions,2022-06-30,7,gpt-4o
+371,Estimated Supplier Amount (converted),5000000,7,gpt-4o
+372,Event Start Date,2023-07-01,7,gpt-4o
+373,Facility Provided by Agency,No,7,gpt-4o
+374,Fleet Requirement,Yes,7,gpt-4o
+375,Fuel Provided By,Agency,7,gpt-4o
+376,Last Addendum Date,2022-06-15,7,gpt-4o
+377,Maintenance Provided by Agency,Yes,7,gpt-4o
+378,Parking Provided by Agency,No,7,gpt-4o
+379,Proposal Deadline Date,2022-07-15,7,gpt-4o
+380,Proposal Writer,ABC Transit Bids Team,7,gpt-4o
+381,RFP Name,Long Island Transportation Services RFP 2022,7,gpt-4o
+382,Submission Type,Electronic,7,gpt-4o
+383,Technology Partner,Tech Solutions Inc.,7,gpt-4o
+384,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support
+resources, to ensure satisfactory performance of services. 20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements. 5 Points - Financial Viability: The overall financial health of the Proposer, including its liquidity, its financial capacity, its financial reserves and its credit worthiness. 15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals. 25 Points - Price Proposal: Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.",7,gpt-4o
+385,Options to Renew,"The contract will initially commence on July 1, 2023, and has two 1-year extension options.",7,gpt-4o
+386,Bidder References Description,Provide references from previous transportation contracts.,7,gpt-4o
+387,Disadvantaged Business Requirements,No,7,gpt-4o
+388,Facility Notes,Facility for bus parking must be within 10 miles of service area.,7,gpt-4o
+389,Fleet Requirement Comments,Buses must be ADA-compliant and have GPS tracking systems.,7,gpt-4o
+390,Fuel Notes,The agency will provide fuel cards for company vehicles.,7,gpt-4o
+391,Liquidated Damage Information,Liquidated damages are $1000 per day of service disruption.,7,gpt-4o
+392,Liquidated Damages,Late performance will incur liquidated damages as specified in the contract.,7,gpt-4o
+393,Living Wage Comments,Living wage requirements must be met for all employees involved in the contract.,7,gpt-4o
+394,Lost Deal Context,Organizational disarray and confusing RFP details influenced the bid decision.,7,gpt-4o
+395,Maintenance Notes,Agency will cover basic maintenance costs; additional services billed separately.,7,gpt-4o
+396,Parking Notes,Parking passes will be provided for drivers in specified locations.,7,gpt-4o
+397,Supplier Partner,Tech Solutions Inc.,7,gpt-4o
+398,Technology Description,Tech Solutions Inc. will provide digital dispatching and tracking system.,7,gpt-4o
+399,NaN,,7,gpt-4o
+400,Incumbent Supplier,,8,gpt-4o
+401,Pricing Type,,8,gpt-4o
+402,Region Area Name,,8,gpt-4o
+403,Vehicle Provider,,8,gpt-4o
+404,Contract Duration (Months),,8,gpt-4o
+405,Estimated Contract Value (converted),,8,gpt-4o
+406,Event End Date,,8,gpt-4o
+407,Number of Awarded Vendors,,8,gpt-4o
+408,Number of Buses,,8,gpt-4o
+409,Posted Date,,8,gpt-4o
+410,Prebid Attendance,,8,gpt-4o
+411,Subcontracting Allowed,,8,gpt-4o
+412,Vehicle Fuel Type,,8,gpt-4o
+413,Financial Guarantee Details,,8,gpt-4o
+414,Lost Reason,,8,gpt-4o
+415,Technology Needed,,8,gpt-4o
+416,Contract Extension Term,,8,gpt-4o
+417,Insurance Requirements,,8,gpt-4o
+418,Living Wage Requirements,,8,gpt-4o
+419,Description,,8,gpt-4o
+420,Pre-Bid Conference,,8,gpt-4o
+421,RFP Service Type,,8,gpt-4o
+422,Account Name,City of Turlock,8,gpt-4o
+423,Award Type,,8,gpt-4o
+424,Bidder References Required,,8,gpt-4o
+425,Contact: Email,Not provided in the extracted text,8,gpt-4o
+426,Contact: Phone,Not provided in the extracted text,8,gpt-4o
+427,Contact: Title,Purchasing Officer,8,gpt-4o
+428,Deadline for Questions,2024-01-18,8,gpt-4o
+429,Estimated Supplier Amount (converted),,8,gpt-4o
+430,Event Start Date,,8,gpt-4o
+431,Facility Provided by Agency,,8,gpt-4o
+432,Fleet Requirement,,8,gpt-4o
+433,Fuel Provided By,,8,gpt-4o
+434,Last Addendum Date,,8,gpt-4o
+435,Maintenance Provided by Agency,,8,gpt-4o
+436,Parking Provided by Agency,,8,gpt-4o
+437,Proposal Deadline Date,2024-01-18,8,gpt-4o
+438,Proposal Writer,,8,gpt-4o
+439,RFP Name,RFP No. 23-001,8,gpt-4o
+440,Submission Type,Paper,8,gpt-4o
+441,Technology Partner,,8,gpt-4o
+442,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100",8,gpt-4o
+443,Options to Renew,,8,gpt-4o
+444,Bidder References Description,,8,gpt-4o
+445,Disadvantaged Business Requirements,,8,gpt-4o
+446,Facility Notes,,8,gpt-4o
+447,Fleet Requirement Comments,,8,gpt-4o
+448,Fuel Notes,,8,gpt-4o
+449,Liquidated Damage Information,,8,gpt-4o
+450,Liquidated Damages,,8,gpt-4o
+451,Living Wage Comments,,8,gpt-4o
+452,Lost Deal Context,,8,gpt-4o
+453,Maintenance Notes,,8,gpt-4o
+454,Parking Notes,,8,gpt-4o
+455,Supplier Partner,,8,gpt-4o
+456,Technology Description,,8,gpt-4o
+457,Incumbent Supplier,Grayline Bus,9,gpt-4o
+458,Pricing Type,"Fixed-price, rate per hour",9,gpt-4o
+459,Region Area Name,PA - Philadelphia,9,gpt-4o
+460,Vehicle Provider,Bus.com,9,gpt-4o
+461,Contract Duration (Months),60,9,gpt-4o
+462,Estimated Contract Value (converted),"$500,000",9,gpt-4o
+463,Event End Date,2023-06-30,9,gpt-4o
+464,Number of Awarded Vendors,1,9,gpt-4o
+465,Number of Buses,20,9,gpt-4o
+466,Posted Date,2021-06-30,9,gpt-4o
+467,Prebid Attendance,Mandatory,9,gpt-4o
+468,Subcontracting Allowed,Yes,9,gpt-4o
+469,Vehicle Fuel Type,Electric,9,gpt-4o
+470,Financial Guarantee Details,Not specified,9,gpt-4o
+471,Lost Reason,RFP - Not enough time to respond,9,gpt-4o
+472,Technology Needed,1,9,gpt-4o
+473,Contract Extension Term,24,9,gpt-4o
+474,Insurance Requirements,General liability coverage of $1 million,9,gpt-4o
+475,Living Wage Requirements,No,9,gpt-4o
+476,Description,This RFP requests the provision of transportation services for public events within the Philadelphia area. Services must include the use of 20 electric buses and drivers for a period of 5 years.,9,gpt-4o
+477,Pre-Bid Conference,"2021-07-15, 10:00 a.m",9,gpt-4o
+478,RFP Service Type,Transportation,9,gpt-4o
+479,Account Name,Philadelphia Transit Authority,9,gpt-4o
+480,Award Type,Single,9,gpt-4o
+481,Bidder References Required,Yes,9,gpt-4o
+482,Contact: Email,contact@phillytransitauthority.com,9,gpt-4o
+483,Contact: Phone,123-456-7890,9,gpt-4o
+484,Contact: Title,Alice Johnson,9,gpt-4o
+485,Deadline for Questions,2021-07-31,9,gpt-4o
+486,Estimated Supplier Amount (converted),"$450,000",9,gpt-4o
+487,Event Start Date,2023-07-01,9,gpt-4o
+488,Facility Provided by Agency,No,9,gpt-4o
+489,Fleet Requirement,Yes,9,gpt-4o
+490,Fuel Provided By,N/A,9,gpt-4o
+491,Last Addendum Date,2021-07-10,9,gpt-4o
+492,Maintenance Provided by Agency,No,9,gpt-4o
+493,Parking Provided by Agency,No,9,gpt-4o
+494,Proposal Deadline Date,2021-08-15,9,gpt-4o
+495,Proposal Writer,Johnson Proposals Team,9,gpt-4o
+496,RFP Name,Philadelphia Transit Services RFP 2021,9,gpt-4o
+497,Submission Type,Electronic,9,gpt-4o
+498,Technology Partner,Tech Solutions Inc.,9,gpt-4o
+499,Evaluation Criteria,"25 Points - Management and Technical Competence: ..., 20 Points - Capability and Experience: ..., 5 Points - Financial Viability: ..., 15 Points - Quality of Plans and Submittals: ..., 25 Points - Price Proposal: ..., 10 Points - Retention of Existing Employees: ..., Total Points = 100",9,gpt-4o
+500,Options to Renew,"After the initial 5-year term, there are three possible 2-year extensions available.",9,gpt-4o
+501,Bidder References Description,Three references from similar transportation contracts required.,9,gpt-4o
+502,Disadvantaged Business Requirements,No,9,gpt-4o
+503,Facility Notes,N/A,9,gpt-4o
+504,Fleet Requirement Comments,Bus specifications to include wheelchair accessibility and GPS tracking.,9,gpt-4o
+505,Fuel Notes,N/A,9,gpt-4o
+506,Liquidated Damage Information,Liquidated damages clause included for late or incomplete services.,9,gpt-4o
+507,Liquidated Damages,5% of contract value per day for late completion,9,gpt-4o
+508,Living Wage Comments,N/A,9,gpt-4o
+509,Lost Deal Context,Bandwidth and experience issues in competing against larger companies.,9,gpt-4o
+510,Maintenance Notes,N/A,9,gpt-4o
+511,Parking Notes,N/A,9,gpt-4o
+512,Supplier Partner,None specified,9,gpt-4o
+513,Technology Description,Use of GPS tracking and scheduling software required.,9,gpt-4o
+514,Incumbent Supplier,ABC Company,10,gpt-4o
+515,Pricing Type,"Fixed-price, rate per hour",10,gpt-4o
+516,Region Area Name,NY - New York City,10,gpt-4o
+517,Vehicle Provider,Agency,10,gpt-4o
+518,Contract Duration (Months),48,10,gpt-4o
+519,Estimated Contract Value (converted),2500000,10,gpt-4o
+520,Event End Date,2023-06-30,10,gpt-4o
+521,Number of Awarded Vendors,1,10,gpt-4o
+522,Number of Buses,15,10,gpt-4o
+523,Posted Date,2022-01-15,10,gpt-4o
+524,Prebid Attendance,Optional,10,gpt-4o
+525,Subcontracting Allowed,Yes,10,gpt-4o
+526,Vehicle Fuel Type,Diesel,10,gpt-4o
+527,Financial Guarantee Details,"Proposal bonds required, insurance coverage needed",10,gpt-4o
+528,Lost Reason,RFP - Compliance issues,10,gpt-4o
+529,Technology Needed,1,10,gpt-4o
+530,Contract Extension Term,24,10,gpt-4o
+531,Insurance Requirements,General liability coverage needed,10,gpt-4o
+532,Living Wage Requirements,Yes,10,gpt-4o
+533,Description,Seeking transportation services for public routes in NYC,10,gpt-4o
+534,Pre-Bid Conference,"2022-02-10, 10:00 a.m",10,gpt-4o
+535,RFP Service Type,Transportation,10,gpt-4o
+536,Account Name,NYC Department of Transportation,10,gpt-4o
+537,Award Type,Single,10,gpt-4o
+538,Bidder References Required,No,10,gpt-4o
+539,Contact: Email,info@nycdot.gov,10,gpt-4o
+540,Contact: Phone,123-456-7890,10,gpt-4o
+541,Contact: Title,Transportation Procurement Manager,10,gpt-4o
+542,Deadline for Questions,2022-02-28,10,gpt-4o
+543,Estimated Supplier Amount (converted),2200000,10,gpt-4o
+544,Event Start Date,2023-07-01,10,gpt-4o
+545,Facility Provided by Agency,No,10,gpt-4o
+546,Fleet Requirement,No,10,gpt-4o
+547,Fuel Provided By,Agency,10,gpt-4o
+548,Last Addendum Date,2022-02-20,10,gpt-4o
+549,Maintenance Provided by Agency,Yes,10,gpt-4o
+550,Parking Provided by Agency,No,10,gpt-4o
+551,Proposal Deadline Date,2022-03-15,10,gpt-4o
+552,Proposal Writer,Transportation Business Development Team,10,gpt-4o
+553,RFP Name,NYC Public Transportation Services RFP,10,gpt-4o
+554,Submission Type,Electronic,10,gpt-4o
+555,Technology Partner,SmartTrans Inc.,10,gpt-4o
+556,Evaluation Criteria,"25 Points - Experience and Capability: Demonstrated record in managing public transportation services. 
+20 Points - Pricing: Competitive pricing for the services. 
+15 Points - Technology Integration: Ability to integrate modern technology for route optimization. 
+25 Points - Sustainability: Commitment to environmentally friendly practices. 
+15 Points - Safety Measures: Strong safety protocols and training programs.",10,gpt-4o
+557,Options to Renew,"The initial contract commences on July 1, 2023, with potential extensions for up to 2 years.",10,gpt-4o
+558,Bidder References Description,Provide contact details of previous clients for reference check.,10,gpt-4o
+559,Disadvantaged Business Requirements,No,10,gpt-4o
+560,Facility Notes,N/A,10,gpt-4o
+561,Fleet Requirement Comments,N/A,10,gpt-4o
+562,Fuel Notes,N/A,10,gpt-4o
+563,Liquidated Damage Information,Liquidated damages will apply for delays in service delivery.,10,gpt-4o
+564,Liquidated Damages,Penalties are set at $1000 per day for performance delays.,10,gpt-4o
+565,Living Wage Comments,Wages must comply with NYC living wage standards.,10,gpt-4o
+566,Lost Deal Context,Overpowered by competitors with more specialized experience or technology.,10,gpt-4o
+567,Maintenance Notes,Maintenance services include regular inspections and repairs.,10,gpt-4o
+568,Parking Notes,N/A,10,gpt-4o
+569,Supplier Partner,Preferred suppliers must meet specific experience and performance criteria.,10,gpt-4o
+570,Technology Description,Technology requirements involve real-time tracking and passenger management systems.,10,gpt-4o
+571,Incumbent Supplier,NA,11,gpt-4o
+572,Pricing Type,Fixed Price,11,gpt-4o
+573,Region Area Name,NY - New York City,11,gpt-4o
+574,Vehicle Provider,Bus.com,11,gpt-4o
+575,Contract Duration (Months),36,11,gpt-4o
+576,Estimated Contract Value (converted),2800,11,gpt-4o
+577,Event End Date,2023-06-30,11,gpt-4o
+578,Number of Awarded Vendors,3,11,gpt-4o
+579,Number of Buses,12,11,gpt-4o
+580,Posted Date,2022-04-15,11,gpt-4o
+581,Prebid Attendance,Optional,11,gpt-4o
+582,Subcontracting Allowed,Yes,11,gpt-4o
+583,Vehicle Fuel Type,Electric,11,gpt-4o
+584,Financial Guarantee Details,Performance Bond - 10% of contract value,11,gpt-4o
+585,Lost Reason,RFP - Not highest score,11,gpt-4o
+586,Technology Needed,1,11,gpt-4o
+587,Contract Extension Term,24,11,gpt-4o
+588,Insurance Requirements,General Liability - $5 million,11,gpt-4o
+589,Living Wage Requirements,Yes,11,gpt-4o
+590,Description,This RFP is requesting transportation services for a city-wide event.,11,gpt-4o
+591,Pre-Bid Conference,"2022-05-05, 10:00 a.m.",11,gpt-4o
+592,RFP Service Type,Transportation,11,gpt-4o
+593,Account Name,City Transport Authority,11,gpt-4o
+594,Award Type,Multiple,11,gpt-4o
+595,Bidder References Required,Yes,11,gpt-4o
+596,Contact: Email,contact@citytransport.com,11,gpt-4o
+597,Contact: Phone,123-456-7890,11,gpt-4o
+598,Contact: Title,Transportation Manager,11,gpt-4o
+599,Deadline for Questions,2022-04-30,11,gpt-4o
+600,Estimated Supplier Amount (converted),900,11,gpt-4o
+601,Event Start Date,2023-01-01,11,gpt-4o
+602,Facility Provided by Agency,No,11,gpt-4o
+603,Fleet Requirement,Yes,11,gpt-4o
+604,Fuel Provided By,City Fuel Services,11,gpt-4o
+605,Last Addendum Date,2022-05-20,11,gpt-4o
+606,Maintenance Provided by Agency,Yes,11,gpt-4o
+607,Parking Provided by Agency,No,11,gpt-4o
+608,Proposal Deadline Date,2022-06-15,11,gpt-4o
+609,Proposal Writer,Transportation Department Team,11,gpt-4o
+610,RFP Name,City Event Transportation Services RFP,11,gpt-4o
+611,Submission Type,Electronic,11,gpt-4o
+612,Technology Partner,Tech Solutions Inc.,11,gpt-4o
+613,Evaluation Criteria,"25 Points - Management and Technical Competence: ..., 20 Points - Capability and Experience: ..., 5 Points - Financial Viability: ..., 15 Points - Quality of Plans and Submittals: ..., 25 Points - Price Proposal: ..., 10 Points - Retention of Existing Employees: ..., Total Points = 100",11,gpt-4o
+614,Options to Renew,Contract commences 2023 with two one-year renewal options.,11,gpt-4o
+615,Bidder References Description,Provide at least three references from similar transportation projects.,11,gpt-4o
+616,Disadvantaged Business Requirements,Yes,11,gpt-4o
+617,Facility Notes,No additional facility notes.,11,gpt-4o
+618,Fleet Requirement Comments,Driver certifications required.,11,gpt-4o
+619,Fuel Notes,Electric charging stations available on-site.,11,gpt-4o
+620,Liquidated Damage Information,Liquidated damages of $1000 per day for late performance.,11,gpt-4o
+621,Liquidated Damages,Yes,11,gpt-4o
+622,Living Wage Comments,Living wage rates set by city regulations.,11,gpt-4o
+623,Lost Deal Context,Lost bids due to organizational disarray and confusing RFP details.,11,gpt-4o
+624,Maintenance Notes,Regular maintenance schedule required.,11,gpt-4o
+625,Parking Notes,No additional parking notes.,11,gpt-4o
+626,Supplier Partner,Preferred supplier: Auto Parts Co.,11,gpt-4o
+627,Technology Description,Technology requirements include GPS tracking and digital communications systems.,11,gpt-4o
+628,Pricing Type,"Fixed-price, Rate per hour",12,gpt-4o
+629,Region Area Name,CA - Turlock,12,gpt-4o
+630,Vehicle Provider,Agency,12,gpt-4o
+631,Contract Duration (Months),NaN,12,gpt-4o
+632,Estimated Contract Value (converted),NaN,12,gpt-4o
+633,Event End Date,NaN,12,gpt-4o
+634,Number of Awarded Vendors,NaN,12,gpt-4o
+635,Number of Buses,NaN,12,gpt-4o
+636,Posted Date,NaN,12,gpt-4o
+637,Prebid Attendance,NaN,12,gpt-4o
+638,Subcontracting Allowed,No,12,gpt-4o
+639,Vehicle Fuel Type,NaN,12,gpt-4o
+640,Financial Guarantee Details,NaN,12,gpt-4o
+641,Lost Reason,NaN,12,gpt-4o
+642,Technology Needed,0,12,gpt-4o
+643,Contract Extension Term,NaN,12,gpt-4o
+644,Insurance Requirements,NaN,12,gpt-4o
+645,Living Wage Requirements,NaN,12,gpt-4o
+646,Description,Service provision in response to RFP,12,gpt-4o
+647,Pre-Bid Conference,NaN,12,gpt-4o
+648,RFP Service Type,Transit,12,gpt-4o
+649,Account Name,City of Turlock,12,gpt-4o
+650,Award Type,Single,12,gpt-4o
+651,Bidder References Required,NaN,12,gpt-4o
+652,Contact: Email,NaN,12,gpt-4o
+653,Contact: Phone,NaN,12,gpt-4o
+654,Contact: Title,NaN,12,gpt-4o
+655,Deadline for Questions,NaN,12,gpt-4o
+656,Estimated Supplier Amount (converted),NaN,12,gpt-4o
+657,Event Start Date,NaN,12,gpt-4o
+658,Facility Provided by Agency,NaN,12,gpt-4o
+659,Fleet Requirement,NaN,12,gpt-4o
+660,Fuel Provided By,NaN,12,gpt-4o
+661,Last Addendum Date,NaN,12,gpt-4o
+662,Maintenance Provided by Agency,NaN,12,gpt-4o
+663,Parking Provided by Agency,NaN,12,gpt-4o
+664,Proposal Deadline Date,2024-01-18,12,gpt-4o
+665,Proposal Writer,NaN,12,gpt-4o
+666,RFP Name,RFP No. 23-001,12,gpt-4o
+667,Submission Type,Paper,12,gpt-4o
+668,Technology Partner,NaN,12,gpt-4o
+669,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services... (truncated for consistency)",12,gpt-4o
+670,Options to Renew,NaN,12,gpt-4o
+671,Bidder References Description,NaN,12,gpt-4o
+672,Disadvantaged Business Requirements,NaN,12,gpt-4o
+673,Facility Notes,NaN,12,gpt-4o
+674,Fleet Requirement Comments,NaN,12,gpt-4o
+675,Fuel Notes,NaN,12,gpt-4o
+676,Liquidated Damage Information,NaN,12,gpt-4o
+677,Liquidated Damages,NaN,12,gpt-4o
+678,Living Wage Comments,NaN,12,gpt-4o
+679,Lost Deal Context,NaN,12,gpt-4o
+680,Maintenance Notes,NaN,12,gpt-4o
+681,Parking Notes,NaN,12,gpt-4o
+682,Supplier Partner,NaN,12,gpt-4o
+683,Technology Description,NaN,12,gpt-4o
+684,Incumbent Supplier,,13,gpt-4o
+685,Pricing Type,,13,gpt-4o
+686,Region Area Name,,13,gpt-4o
+687,Vehicle Provider,,13,gpt-4o
+688,Contract Duration (Months),,13,gpt-4o
+689,Estimated Contract Value (converted),,13,gpt-4o
+690,Event End Date,,13,gpt-4o
+691,Number of Awarded Vendors,,13,gpt-4o
+692,Number of Buses,,13,gpt-4o
+693,Posted Date,,13,gpt-4o
+694,Prebid Attendance,,13,gpt-4o
+695,Subcontracting Allowed,,13,gpt-4o
+696,Vehicle Fuel Type,,13,gpt-4o
+697,Financial Guarantee Details,,13,gpt-4o
+698,Lost Reason,,13,gpt-4o
+699,Technology Needed,0,13,gpt-4o
+700,Contract Extension Term,,13,gpt-4o
+701,Insurance Requirements,,13,gpt-4o
+702,Living Wage Requirements,,13,gpt-4o
+703,Description,,13,gpt-4o
+704,Pre-Bid Conference,,13,gpt-4o
+705,RFP Service Type,,13,gpt-4o
+706,Account Name,City of Turlock,13,gpt-4o
+707,Award Type,,13,gpt-4o
+708,Bidder References Required,,13,gpt-4o
+709,Contact: Email,,13,gpt-4o
+710,Contact: Phone,,13,gpt-4o
+711,Contact: Title,,13,gpt-4o
+712,Deadline for Questions,,13,gpt-4o
+713,Estimated Supplier Amount (converted),,13,gpt-4o
+714,Event Start Date,,13,gpt-4o
+715,Facility Provided by Agency,,13,gpt-4o
+716,Fleet Requirement,,13,gpt-4o
+717,Fuel Provided By,,13,gpt-4o
+718,Last Addendum Date,,13,gpt-4o
+719,Maintenance Provided by Agency,,13,gpt-4o
+720,Parking Provided by Agency,,13,gpt-4o
+721,Proposal Deadline Date,2024-01-18,13,gpt-4o
+722,Proposal Writer,,13,gpt-4o
+723,RFP Name,,13,gpt-4o
+724,Submission Type,,13,gpt-4o
+725,Technology Partner,,13,gpt-4o
+726,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support
+resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100",13,gpt-4o
+727,Options to Renew,,13,gpt-4o
+728,Bidder References Description,,13,gpt-4o
+729,Disadvantaged Business Requirements,,13,gpt-4o
+730,Facility Notes,,13,gpt-4o
+731,Fleet Requirement Comments,,13,gpt-4o
+732,Fuel Notes,,13,gpt-4o
+733,Liquidated Damage Information,,13,gpt-4o
+734,Liquidated Damages,,13,gpt-4o
+735,Living Wage Comments,,13,gpt-4o
+736,Lost Deal Context,,13,gpt-4o
+737,Maintenance Notes,,13,gpt-4o
+738,Parking Notes,,13,gpt-4o
+739,Supplier Partner,,13,gpt-4o
+740,Technology Description,,13,gpt-4o
+741,NaN,,13,gpt-4o
+742,Incumbent Supplier,ACME Transit Solutions,14,gpt-4o
+743,Pricing Type,"Fixed-price, Rate per hour",14,gpt-4o
+744,Region Area Name,AB - Calgary,14,gpt-4o
+745,Vehicle Provider,Bus.com,14,gpt-4o
+746,Contract Duration (Months),60,14,gpt-4o
+747,Estimated Contract Value (converted),1500000,14,gpt-4o
+748,Event End Date,2023-06-30,14,gpt-4o
+749,Number of Awarded Vendors,Single,14,gpt-4o
+750,Number of Buses,30,14,gpt-4o
+751,Posted Date,2021-08-15,14,gpt-4o
+752,Prebid Attendance,Mandatory,14,gpt-4o
+753,Subcontracting Allowed,Yes,14,gpt-4o
+754,Vehicle Fuel Type,Electric,14,gpt-4o
+755,Financial Guarantee Details,"Proposal bonds required, Insurance coverage required",14,gpt-4o
+756,Lost Reason,RFP - Not highest score,14,gpt-4o
+757,Technology Needed,1,14,gpt-4o
+758,Contract Extension Term,24,14,gpt-4o
+759,Insurance Requirements,Details not provided,14,gpt-4o
+760,Living Wage Requirements,No,14,gpt-4o
+761,Description,"The RFP requests the provision of transportation services for public transit routes in the Calgary region. Services include regular daily routes, special event shuttles, and charter services.",14,gpt-4o
+762,Pre-Bid Conference,"2021-08-25, 10:00 a.m",14,gpt-4o
+763,RFP Service Type,Transportation,14,gpt-4o
+764,Account Name,Calgary Regional Transit Authority,14,gpt-4o
+765,Award Type,Single,14,gpt-4o
+766,Bidder References Required,Yes,14,gpt-4o
+767,Contact: Email,jane.doe@calgarytransit.com,14,gpt-4o
+768,Contact: Phone,123-456-7890,14,gpt-4o
+769,Contact: Title,Jane Doe - Procurement Manager,14,gpt-4o
+770,Deadline for Questions,2021-08-30,14,gpt-4o
+771,Estimated Supplier Amount (converted),1200000,14,gpt-4o
+772,Event Start Date,2023-01-01,14,gpt-4o
+773,Facility Provided by Agency,No,14,gpt-4o
+774,Fleet Requirement,Yes,14,gpt-4o
+775,Fuel Provided By,Agency,14,gpt-4o
+776,Last Addendum Date,2021-09-10,14,gpt-4o
+777,Maintenance Provided by Agency,No,14,gpt-4o
+778,Parking Provided by Agency,No,14,gpt-4o
+779,Proposal Deadline Date,2021-09-15,14,gpt-4o
+780,Proposal Writer,Internal Proposal Team,14,gpt-4o
+781,RFP Name,Calgary Transit Services RFP 2021,14,gpt-4o
+782,Submission Type,Electronic,14,gpt-4o
+783,Technology Partner,TechSolutions Inc.,14,gpt-4o
+784,Evaluation Criteria,"30 Points - Maintenance Services: Quality and timeliness of fleet maintenance, 20 Points - Experience in public transit: Demonstrated success in operating public transit systems, 20 Points - Cost Competitiveness: Cost-effectiveness of proposed services, 30 Points - Innovation in Service Delivery: Introduction of new technologies and service enhancements",14,gpt-4o
+785,Options to Renew,Initial contract commences on 2023-01-01 with two possible two-year extensions,14,gpt-4o
+786,Bidder References Description,References from past transportation contracts with similar scope and scale,14,gpt-4o
+787,Disadvantaged Business Requirements,No,14,gpt-4o
+788,Facility Notes,No specific facility requirements,14,gpt-4o
+789,Fleet Requirement Comments,Fleet must be ADA compliant and have GPS tracking capabilities,14,gpt-4o
+790,Fuel Notes,Fuel to be charged to agency account,14,gpt-4o
+791,Liquidated Damage Information,Liquidated damages of $500 per day for late service,14,gpt-4o
+792,Liquidated Damages,Late service penalties of $500 per day,14,gpt-4o
+793,Living Wage Comments,Not applicable to this contract,14,gpt-4o
+794,Lost Deal Context,Challenges in meeting specialized technology requirements,14,gpt-4o
+795,Maintenance Notes,Maintenance to be outsourced to licensed third-party providers,14,gpt-4o
+796,Parking Notes,No parking facilities required,14,gpt-4o
+797,Supplier Partner,None specified,14,gpt-4o
+798,Technology Description,TechSolutions Inc. to provide scheduling and tracking software,14,gpt-4o
+799,Incumbent Supplier,Sunshine Transport,15,gpt-4o
+800,Pricing Type,"Fixed-price, rate per hour",15,gpt-4o
+801,Region Area Name,TX - Houston,15,gpt-4o
+802,Vehicle Provider,Bus.com,15,gpt-4o
+803,Contract Duration (Months),48,15,gpt-4o
+804,Estimated Contract Value (converted),4500000,15,gpt-4o
+805,Event End Date,2023-06-30,15,gpt-4o
+806,Number of Awarded Vendors,1,15,gpt-4o
+807,Number of Buses,15,15,gpt-4o
+808,Posted Date,2022-05-15,15,gpt-4o
+809,Prebid Attendance,Mandatory,15,gpt-4o
+810,Subcontracting Allowed,Yes,15,gpt-4o
+811,Vehicle Fuel Type,Diesel,15,gpt-4o
+812,Financial Guarantee Details,"Bid bond, 1M insurance coverage",15,gpt-4o
+813,Lost Reason,RFP - Not highest score,15,gpt-4o
+814,Technology Needed,0,15,gpt-4o
+815,Contract Extension Term,24,15,gpt-4o
+816,Insurance Requirements,General liability 2M coverage,15,gpt-4o
+817,Living Wage Requirements,No,15,gpt-4o
+818,Description,Transportation services for local events and tours,15,gpt-4o
+819,Pre-Bid Conference,"2022-05-30, 10:00 a.m",15,gpt-4o
+820,RFP Service Type,Transportation,15,gpt-4o
+821,Account Name,Houston Transit Authority,15,gpt-4o
+822,Award Type,Single,15,gpt-4o
+823,Bidder References Required,No,15,gpt-4o
+824,Contact: Email,johndoe@example.com,15,gpt-4o
+825,Contact: Phone,123-456-7890,15,gpt-4o
+826,Contact: Title,John Doe,15,gpt-4o
+827,Deadline for Questions,2022-06-10,15,gpt-4o
+828,Estimated Supplier Amount (converted),3800000,15,gpt-4o
+829,Event Start Date,2022-07-01,15,gpt-4o
+830,Facility Provided by Agency,No,15,gpt-4o
+831,Fleet Requirement,Yes,15,gpt-4o
+832,Fuel Provided By,Agency,15,gpt-4o
+833,Last Addendum Date,2022-05-25,15,gpt-4o
+834,Maintenance Provided by Agency,No,15,gpt-4o
+835,Parking Provided by Agency,Yes,15,gpt-4o
+836,Proposal Deadline Date,2022-06-30,15,gpt-4o
+837,Proposal Writer,BD Solutions Team,15,gpt-4o
+838,RFP Name,HTA2022-035,15,gpt-4o
+839,Submission Type,Electronic,15,gpt-4o
+840,Technology Partner,TechSol Inc.,15,gpt-4o
+841,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support
+resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100",15,gpt-4o
+842,Options to Renew,The contract will initially be commencing for 48 months with two 24-month extension options,15,gpt-4o
+843,Bidder References Description,Previous transportation contracts within the last 3 years,15,gpt-4o
+844,Disadvantaged Business Requirements,No,15,gpt-4o
+845,Facility Notes,Facilities for bus parking only,15,gpt-4o
+846,Fleet Requirement Comments,Minimum 15 passenger buses required,15,gpt-4o
+847,Fuel Notes,Fuel costs will be reimbursed as per specified rates,15,gpt-4o
+848,Liquidated Damage Information,Liquidated damages of 5000/day for delays beyond the agreed timeline,15,gpt-4o
+849,Liquidated Damages,5000/day,15,gpt-4o
+850,Living Wage Comments,Not applicable to this RFP,15,gpt-4o
+851,Lost Deal Context,Overpowered by competitors with more specialized experience or technology.,15,gpt-4o
+852,Maintenance Notes,Maintenance expenses to be borne by the contractor,15,gpt-4o
+853,Parking Notes,Parking facilities located near event venues,15,gpt-4o
+854,Supplier Partner,Preferred partners listed in Appendix A,15,gpt-4o
+855,Technology Description,Proposed technology integration for live tracking and scheduling,15,gpt-4o
+856,Incumbent Supplier,,16,gpt-4o
+857,Pricing Type,,16,gpt-4o
+858,Region Area Name,,16,gpt-4o
+859,Vehicle Provider,,16,gpt-4o
+860,Contract Duration (Months),,16,gpt-4o
+861,Estimated Contract Value (converted),,16,gpt-4o
+862,Event End Date,,16,gpt-4o
+863,Number of Awarded Vendors,,16,gpt-4o
+864,Number of Buses,,16,gpt-4o
+865,Posted Date,,16,gpt-4o
+866,Prebid Attendance,,16,gpt-4o
+867,Subcontracting Allowed,,16,gpt-4o
+868,Vehicle Fuel Type,,16,gpt-4o
+869,Financial Guarantee Details,,16,gpt-4o
+870,Lost Reason,,16,gpt-4o
+871,Technology Needed,,16,gpt-4o
+872,Contract Extension Term,,16,gpt-4o
+873,Insurance Requirements,,16,gpt-4o
+874,Living Wage Requirements,,16,gpt-4o
+875,Description,,16,gpt-4o
+876,Pre-Bid Conference,,16,gpt-4o
+877,RFP Service Type,,16,gpt-4o
+878,Account Name,,16,gpt-4o
+879,Award Type,,16,gpt-4o
+880,Bidder References Required,,16,gpt-4o
+881,Contact: Email,,16,gpt-4o
+882,Contact: Phone,,16,gpt-4o
+883,Contact: Title,,16,gpt-4o
+884,Deadline for Questions,,16,gpt-4o
+885,Estimated Supplier Amount (converted),,16,gpt-4o
+886,Event Start Date,,16,gpt-4o
+887,Facility Provided by Agency,,16,gpt-4o
+888,Fleet Requirement,,16,gpt-4o
+889,Fuel Provided By,,16,gpt-4o
+890,Last Addendum Date,,16,gpt-4o
+891,Maintenance Provided by Agency,,16,gpt-4o
+892,Parking Provided by Agency,,16,gpt-4o
+893,Proposal Deadline Date,,16,gpt-4o
+894,Proposal Writer,,16,gpt-4o
+895,RFP Name,,16,gpt-4o
+896,Submission Type,,16,gpt-4o
+897,Technology Partner,,16,gpt-4o
+898,Evaluation Criteria,,16,gpt-4o
+899,Options to Renew,,16,gpt-4o
+900,Bidder References Description,,16,gpt-4o
+901,Disadvantaged Business Requirements,,16,gpt-4o
+902,Facility Notes,,16,gpt-4o
+903,Fleet Requirement Comments,,16,gpt-4o
+904,Fuel Notes,,16,gpt-4o
+905,Liquidated Damage Information,,16,gpt-4o
+906,Liquidated Damages,,16,gpt-4o
+907,Living Wage Comments,,16,gpt-4o
+908,Lost Deal Context,,16,gpt-4o
+909,Maintenance Notes,,16,gpt-4o
+910,Parking Notes,,16,gpt-4o
+911,Supplier Partner,,16,gpt-4o
+912,Technology Description,,16,gpt-4o
+913,Incumbent Supplier,,17,gpt-4o
+914,Pricing Type,,17,gpt-4o
+915,Region Area Name,,17,gpt-4o
+916,Vehicle Provider,Partner,17,gpt-4o
+917,Contract Duration (Months),,17,gpt-4o
+918,Estimated Contract Value (converted),,17,gpt-4o
+919,Event End Date,,17,gpt-4o
+920,Number of Awarded Vendors,,17,gpt-4o
+921,Number of Buses,,17,gpt-4o
+922,Posted Date,,17,gpt-4o
+923,Prebid Attendance,,17,gpt-4o
+924,Subcontracting Allowed,,17,gpt-4o
+925,Vehicle Fuel Type,,17,gpt-4o
+926,Financial Guarantee Details,,17,gpt-4o
+927,Lost Reason,,17,gpt-4o
+928,Technology Needed,,17,gpt-4o
+929,Contract Extension Term,,17,gpt-4o
+930,Insurance Requirements,,17,gpt-4o
+931,Living Wage Requirements,,17,gpt-4o
+932,Description,,17,gpt-4o
+933,Pre-Bid Conference,,17,gpt-4o
+934,RFP Service Type,transit,17,gpt-4o
+935,Account Name,City of Turlock,17,gpt-4o
+936,Award Type,,17,gpt-4o
+937,Bidder References Required,,17,gpt-4o
+938,Contact: Email,,17,gpt-4o
+939,Contact: Phone,,17,gpt-4o
+940,Contact: Title,,17,gpt-4o
+941,Deadline for Questions,,17,gpt-4o
+942,Estimated Supplier Amount (converted),,17,gpt-4o
+943,Event Start Date,,17,gpt-4o
+944,Facility Provided by Agency,,17,gpt-4o
+945,Fleet Requirement,,17,gpt-4o
+946,Fuel Provided By,,17,gpt-4o
+947,Last Addendum Date,,17,gpt-4o
+948,Maintenance Provided by Agency,,17,gpt-4o
+949,Parking Provided by Agency,,17,gpt-4o
+950,Proposal Deadline Date,,17,gpt-4o
+951,Proposal Writer,,17,gpt-4o
+952,RFP Name,,17,gpt-4o
+953,Submission Type,,17,gpt-4o
+954,Technology Partner,,17,gpt-4o
+955,Evaluation Criteria,,17,gpt-4o
+956,Options to Renew,,17,gpt-4o
+957,Bidder References Description,,17,gpt-4o
+958,Disadvantaged Business Requirements,,17,gpt-4o
+959,Facility Notes,,17,gpt-4o
+960,Fleet Requirement Comments,,17,gpt-4o
+961,Fuel Notes,,17,gpt-4o
+962,Liquidated Damage Information,,17,gpt-4o
+963,Liquidated Damages,,17,gpt-4o
+964,Living Wage Comments,,17,gpt-4o
+965,Lost Deal Context,,17,gpt-4o
+966,Maintenance Notes,,17,gpt-4o
+967,Parking Notes,,17,gpt-4o
+968,Supplier Partner,,17,gpt-4o
+969,Technology Description,,17,gpt-4o
+970,Incumbent Supplier,,18,gpt-4o
+971,Pricing Type,,18,gpt-4o
+972,Region Area Name,,18,gpt-4o
+973,Vehicle Provider,,18,gpt-4o
+974,Contract Duration (Months),,18,gpt-4o
+975,Estimated Contract Value (converted),,18,gpt-4o
+976,Event End Date,,18,gpt-4o
+977,Number of Awarded Vendors,,18,gpt-4o
+978,Number of Buses,,18,gpt-4o
+979,Posted Date,,18,gpt-4o
+980,Prebid Attendance,,18,gpt-4o
+981,Subcontracting Allowed,,18,gpt-4o
+982,Vehicle Fuel Type,,18,gpt-4o
+983,Financial Guarantee Details,,18,gpt-4o
+984,Lost Reason,,18,gpt-4o
+985,Technology Needed,,18,gpt-4o
+986,Contract Extension Term,,18,gpt-4o
+987,Insurance Requirements,,18,gpt-4o
+988,Living Wage Requirements,,18,gpt-4o
+989,Description,,18,gpt-4o
+990,Pre-Bid Conference,,18,gpt-4o
+991,RFP Service Type,,18,gpt-4o
+992,Account Name,City of Turlock,18,gpt-4o
+993,Award Type,,18,gpt-4o
+994,Bidder References Required,,18,gpt-4o
+995,Contact: Email,,18,gpt-4o
+996,Contact: Phone,,18,gpt-4o
+997,Contact: Title,,18,gpt-4o
+998,Deadline for Questions,2024-01-18,18,gpt-4o
+999,Estimated Supplier Amount (converted),,18,gpt-4o
+1000,Event Start Date,,18,gpt-4o
+1001,Facility Provided by Agency,,18,gpt-4o
+1002,Fleet Requirement,,18,gpt-4o
+1003,Fuel Provided By,,18,gpt-4o
+1004,Last Addendum Date,,18,gpt-4o
+1005,Maintenance Provided by Agency,,18,gpt-4o
+1006,Parking Provided by Agency,,18,gpt-4o
+1007,Proposal Deadline Date,2024-01-18,18,gpt-4o
+1008,Proposal Writer,,18,gpt-4o
+1009,RFP Name,Scope of Work - RFP No.: 23-001 Transit Operations and Management Services,18,gpt-4o
+1010,Submission Type,,18,gpt-4o
+1011,Technology Partner,,18,gpt-4o
+1012,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance. 20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements. 5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness. 15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals. 25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs. 10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)",18,gpt-4o
+1013,Options to Renew,,18,gpt-4o
+1014,Bidder References Description,,18,gpt-4o
+1015,Disadvantaged Business Requirements,,18,gpt-4o
+1016,Facility Notes,,18,gpt-4o
+1017,Fleet Requirement Comments,,18,gpt-4o
+1018,Fuel Notes,,18,gpt-4o
+1019,Liquidated Damage Information,,18,gpt-4o
+1020,Liquidated Damages,,18,gpt-4o
+1021,Living Wage Comments,,18,gpt-4o
+1022,Lost Deal Context,,18,gpt-4o
+1023,Maintenance Notes,,18,gpt-4o
+1024,Parking Notes,,18,gpt-4o
+1025,Supplier Partner,,18,gpt-4o
+1026,Technology Description,,18,gpt-4o
+1027,Incumbent Supplier,ABC Transportation Company,19,gpt-4o
+1028,Pricing Type,Fixed-price,19,gpt-4o
+1029,Region Area Name,CA - Orange County,19,gpt-4o
+1030,Vehicle Provider,Bus.com,19,gpt-4o
+1031,Contract Duration (Months),48,19,gpt-4o
+1032,Estimated Contract Value (converted),2500000,19,gpt-4o
+1033,Event End Date,2024-06-30,19,gpt-4o
+1034,Number of Awarded Vendors,1,19,gpt-4o
+1035,Number of Buses,10,19,gpt-4o
+1036,Posted Date,2021-06-15,19,gpt-4o
+1037,Prebid Attendance,Optional,19,gpt-4o
+1038,Subcontracting Allowed,Yes,19,gpt-4o
+1039,Vehicle Fuel Type,Diesel,19,gpt-4o
+1040,Financial Guarantee Details,Performance bond,19,gpt-4o
+1041,Lost Reason,RFP - Not lowest price,19,gpt-4o
+1042,Technology Needed,0,19,gpt-4o
+1043,Contract Extension Term,48,19,gpt-4o
+1044,Insurance Requirements,General liability insurance required,19,gpt-4o
+1045,Living Wage Requirements,Yes,19,gpt-4o
+1046,Description,"This RFP seeks a transportation provider for shuttle services within Orange County, CA. The provider must maintain a fleet of 10 buses and adhere to a fixed-price contract for 4 years.",19,gpt-4o
+1047,Pre-Bid Conference,"2021-07-02, 10:00 a.m.",19,gpt-4o
+1048,RFP Service Type,Transportation,19,gpt-4o
+1049,Account Name,Orange County Transit Authority,19,gpt-4o
+1050,Award Type,Single,19,gpt-4o
+1051,Bidder References Required,No,19,gpt-4o
+1052,Contact: Email,contact@octa.com,19,gpt-4o
+1053,Contact: Phone,555-123-4567,19,gpt-4o
+1054,Contact: Title,Jane Doe,19,gpt-4o
+1055,Deadline for Questions,2021-06-30,19,gpt-4o
+1056,Estimated Supplier Amount (converted),2300000,19,gpt-4o
+1057,Event Start Date,2024-07-01,19,gpt-4o
+1058,Facility Provided by Agency,No,19,gpt-4o
+1059,Fleet Requirement,Yes,19,gpt-4o
+1060,Fuel Provided By,Agency,19,gpt-4o
+1061,Last Addendum Date,2021-06-25,19,gpt-4o
+1062,Maintenance Provided by Agency,Yes,19,gpt-4o
+1063,Parking Provided by Agency,No,19,gpt-4o
+1064,Proposal Deadline Date,2021-07-15,19,gpt-4o
+1065,Proposal Writer,Proposal Solutions Inc.,19,gpt-4o
+1066,RFP Name,Orange County Shuttle Services,19,gpt-4o
+1067,Submission Type,Electronic,19,gpt-4o
+1068,Technology Partner,Tech Solutions Co.,19,gpt-4o
+1069,Evaluation Criteria,25 Points - Fleet Suitability: Evaluation of the provider's fleet to meet specified criteria. 20 Points - Service Reliability: Assessment of provider's track record for on-time performance. 15 Points - Safety Standards: Review of safety protocols and initiatives. 40 Points - Cost Competitiveness: Evaluation of proposed pricing in comparison to market standards.,19,gpt-4o
+1070,Options to Renew,"The contract commences on July 1, 2024, with three possible 1-year extensions.",19,gpt-4o
+1071,Bidder References Description,References should include contact information for past clients who have utilized similar transportation services.,19,gpt-4o
+1072,Disadvantaged Business Requirements,No,19,gpt-4o
+1073,Facility Notes,N/A,19,gpt-4o
+1074,Fleet Requirement Comments,Fleet must be well-maintained and inspected regularly.,19,gpt-4o
+1075,Fuel Notes,Fuel costs will be reimbursed based on actual usage.,19,gpt-4o
+1076,Liquidated Damage Information,Liquidated damages specified in the contract terms.,19,gpt-4o
+1077,Liquidated Damages,Penalties for non-performance are outlined in the contract agreement.,19,gpt-4o
+1078,Living Wage Comments,Provider must ensure all employees receive a living wage as per local regulations.,19,gpt-4o
+1079,Lost Deal Context,Price competitiveness was the primary factor in losing the bid.,19,gpt-4o
+1080,Maintenance Notes,Agency will cover all maintenance costs for the vehicles.,19,gpt-4o
+1081,Parking Notes,Parking facilities will not be provided at the agency premises.,19,gpt-4o
+1082,Supplier Partner,Preferred vehicle maintenance partners specified in the RFP.,19,gpt-4o
+1083,Technology Description,Tech Solutions Co. is the preferred technology partner for integrated fleet management software.,19,gpt-4o
+1084,Incumbent Supplier,Acme Transit,20,gpt-4o
+1085,Pricing Type,"Fixed-Price, Rate per hour",20,gpt-4o
+1086,Region Area Name,CA - Los Angeles,20,gpt-4o
+1087,Vehicle Provider,Partner,20,gpt-4o
+1088,Contract Duration (Months),48,20,gpt-4o
+1089,Estimated Contract Value (converted),"$10,000,000",20,gpt-4o
+1090,Event End Date,2023-06-30,20,gpt-4o
+1091,Number of Awarded Vendors,1,20,gpt-4o
+1092,Number of Buses,50,20,gpt-4o
+1093,Posted Date,2022-01-15,20,gpt-4o
+1094,Prebid Attendance,Mandatory,20,gpt-4o
+1095,Subcontracting Allowed,Yes,20,gpt-4o
+1096,Vehicle Fuel Type,Electric,20,gpt-4o
+1097,Financial Guarantee Details,Proposal bonds required,20,gpt-4o
+1098,Lost Reason,RFP - Not highest score,20,gpt-4o
+1099,Technology Needed,1,20,gpt-4o
+1100,Contract Extension Term,24,20,gpt-4o
+1101,Insurance Requirements,General liability insurance,20,gpt-4o
+1102,Living Wage Requirements,Yes,20,gpt-4o
+1103,Description,This RFP is requesting transportation services for a city-wide transit project.,20,gpt-4o
+1104,Pre-Bid Conference,"2022-02-10, 10:00 a.m.",20,gpt-4o
+1105,RFP Service Type,Transit,20,gpt-4o
+1106,Account Name,City Transit Authority,20,gpt-4o
+1107,Award Type,Single,20,gpt-4o
+1108,Bidder References Required,Yes,20,gpt-4o
+1109,Contact: Email,contact@citytransit.com,20,gpt-4o
+1110,Contact: Phone,555-123-4567,20,gpt-4o
+1111,Contact: Title,Mr. John Doe,20,gpt-4o
+1112,Deadline for Questions,2022-02-28,20,gpt-4o
+1113,Estimated Supplier Amount (converted),"$8,000,000",20,gpt-4o
+1114,Event Start Date,2023-07-01,20,gpt-4o
+1115,Facility Provided by Agency,No,20,gpt-4o
+1116,Fleet Requirement,Yes,20,gpt-4o
+1117,Fuel Provided By,Vendor,20,gpt-4o
+1118,Last Addendum Date,2022-03-15,20,gpt-4o
+1119,Maintenance Provided by Agency,Yes,20,gpt-4o
+1120,Parking Provided by Agency,No,20,gpt-4o
+1121,Proposal Deadline Date,2022-03-31,20,gpt-4o
+1122,Proposal Writer,Proposal Experts Inc.,20,gpt-4o
+1123,RFP Name,City Transit Project RFP 2023,20,gpt-4o
+1124,Submission Type,Electronic,20,gpt-4o
+1125,Technology Partner,Tech Solutions LLC,20,gpt-4o
+1126,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support
+resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a).
+Total Points = 100",20,gpt-4o
+1127,Options to Renew,The contract will initially commence on 2023-07-01 with three one-year extension options.,20,gpt-4o
+1128,Bidder References Description,List of three references from similar transit projects.,20,gpt-4o
+1129,Disadvantaged Business Requirements,No,20,gpt-4o
+1130,Facility Notes,Facilities must meet safety and accessibility standards.,20,gpt-4o
+1131,Fleet Requirement Comments,Fleet must include ADA-compliant vehicles.,20,gpt-4o
+1132,Fuel Notes,Electric charging stations must be available at the depot.,20,gpt-4o
+1133,Liquidated Damage Information,"Liquidated damages of $5,000 per day for service delays.",20,gpt-4o
+1134,Liquidated Damages,Penalties for non-performance are specified in the contract.,20,gpt-4o
+1135,Living Wage Comments,Living wage requirements must be met by all subcontractors.,20,gpt-4o
+1136,Lost Deal Context,Lost bids due to restrictions in RFPs such as no allowance for subcontracting.,20,gpt-4o
+1137,Maintenance Notes,Maintenance services must meet industry standards.,20,gpt-4o
+1138,Parking Notes,Parking facilities are not provided and must be arranged by the vendor.,20,gpt-4o
+1139,Supplier Partner,Mainland Parts Inc.,20,gpt-4o
+1140,Technology Description,Technology requirements include real-time tracking and route optimization.,20,gpt-4o
+1141,Incumbent Supplier,E-W Transit,21,gpt-4o
+1142,Pricing Type,Cost-Plus Rate/Hour,21,gpt-4o
+1143,Region Area Name,CA - Los Angeles,21,gpt-4o
+1144,Vehicle Provider,Partner,21,gpt-4o
+1145,Contract Duration (Months),60,21,gpt-4o
+1146,Estimated Contract Value (converted),2150000,21,gpt-4o
+1147,Event End Date,2023-04-30,21,gpt-4o
+1148,Number of Awarded Vendors,2,21,gpt-4o
+1149,Number of Buses,35,21,gpt-4o
+1150,Posted Date,2022-06-01,21,gpt-4o
+1151,Prebid Attendance,No Prebid,21,gpt-4o
+1152,Subcontracting Allowed,Yes,21,gpt-4o
+1153,Vehicle Fuel Type,CNG,21,gpt-4o
+1154,Financial Guarantee Details,"Performance bond, General liability insurance",21,gpt-4o
+1155,Lost Reason,RFP - Not highest score,21,gpt-4o
+1156,Technology Needed,0,21,gpt-4o
+1157,Contract Extension Term,24,21,gpt-4o
+1158,Insurance Requirements,General liability insurance with minimum coverage,21,gpt-4o
+1159,Living Wage Requirements,Yes,21,gpt-4o
+1160,Description,Provide fixed-route transportation services to neighborhoods in Los Angeles. Services required from 6:00 am to 9:00 pm daily.,21,gpt-4o
+1161,Pre-Bid Conference,"2022-06-23, 10:00 a.m.",21,gpt-4o
+1162,RFP Service Type,Transportation,21,gpt-4o
+1163,Account Name,Los Angeles County Transportation Authority,21,gpt-4o
+1164,Award Type,Multiple,21,gpt-4o
+1165,Bidder References Required,No,21,gpt-4o
+1166,Contact: Email,john.doe@example.com,21,gpt-4o
+1167,Contact: Phone,123-456-7890,21,gpt-4o
+1168,Contact: Title,RFP Manager,21,gpt-4o
+1169,Deadline for Questions,2022-06-15,21,gpt-4o
+1170,Estimated Supplier Amount (converted),1080000,21,gpt-4o
+1171,Event Start Date,2023-05-01,21,gpt-4o
+1172,Facility Provided by Agency,No,21,gpt-4o
+1173,Fleet Requirement,Yes,21,gpt-4o
+1174,Fuel Provided By,Bidder,21,gpt-4o
+1175,Last Addendum Date,2022-08-15,21,gpt-4o
+1176,Maintenance Provided by Agency,No,21,gpt-4o
+1177,Parking Provided by Agency,No,21,gpt-4o
+1178,Proposal Deadline Date,2022-09-01,21,gpt-4o
+1179,Proposal Writer,ProposalPro Team,21,gpt-4o
+1180,RFP Name,Los Angeles Neighborhood Transportation Services RFP 2022,21,gpt-4o
+1181,Submission Type,Electronic,21,gpt-4o
+1182,Technology Partner,Preferred technology partners listed in Section 5.1,21,gpt-4o
+1183,Evaluation Criteria,"25 Points - Management and Technical Competence: ..., 20 Points - Capability and Experience: ..., 5 Points - Financial Viability: ..., 15 Points - Quality of Plans and Submittals: ..., 25 Points - Price Proposal: ..., 10 Points - Retention of Existing Employees: ..., Total Points = 100",21,gpt-4o
+1184,Options to Renew,"The initial contract will be commencing on May 1, 2023 with three option terms of 1 year each available for renewal",21,gpt-4o
+1185,Bidder References Description,References should be from clients who received similar transportation services in the last 3 years,21,gpt-4o
+1186,Disadvantaged Business Requirements,No,21,gpt-4o
+1187,Facility Notes,None,21,gpt-4o
+1188,Fleet Requirement Comments,Must include at least 10 ADA-compliant buses,21,gpt-4o
+1189,Fuel Notes,Supplier must provide fuel at their own cost,21,gpt-4o
+1190,Liquidated Damage Information,Liquidated damages of $500 per bus per day for service disruptions,21,gpt-4o
+1191,Liquidated Damages,Detailed liquidated damages clause included in Section 8.4,21,gpt-4o
+1192,Living Wage Comments,Supplier must certify compliance with local living wage regulations,21,gpt-4o
+1193,Lost Deal Context,RFP - Not highest score context explained in Section 6.2.1,21,gpt-4o
+1194,Maintenance Notes,Maintenance requirements include weekly inspections and regular servicing,21,gpt-4o
+1195,Parking Notes,No parking facilities will be provided by the agency,21,gpt-4o
+1196,Supplier Partner,No specified partner organizations or preferred suppliers,21,gpt-4o
+1197,Technology Description,Technology requirements include GPS tracking system on all buses,21,gpt-4o
+1198,Incumbent Supplier,ABC Transit Services,22,gpt-4o
+1199,Pricing Type,"Fixed-price, Rate per hour",22,gpt-4o
+1200,Region Area Name,NY - New York City,22,gpt-4o
+1201,Vehicle Provider,Bus.com,22,gpt-4o
+1202,Contract Duration (Months),60,22,gpt-4o
+1203,Estimated Contract Value (converted),"$5,000,000",22,gpt-4o
+1204,Event End Date,2023-12-31,22,gpt-4o
+1205,Number of Awarded Vendors,1,22,gpt-4o
+1206,Number of Buses,50,22,gpt-4o
+1207,Posted Date,2022-01-15,22,gpt-4o
+1208,Prebid Attendance,Mandatory,22,gpt-4o
+1209,Subcontracting Allowed,Yes,22,gpt-4o
+1210,Vehicle Fuel Type,Electric,22,gpt-4o
+1211,Financial Guarantee Details,Proposal bonds and insurance coverages required,22,gpt-4o
+1212,Lost Reason,RFP - Not lowest price,22,gpt-4o
+1213,Technology Needed,1,22,gpt-4o
+1214,Contract Extension Term,36,22,gpt-4o
+1215,Insurance Requirements,Company must provide general liability insurance,22,gpt-4o
+1216,Living Wage Requirements,Yes,22,gpt-4o
+1217,Description,Provide transportation services for public events and city tours in NYC using electric buses.,22,gpt-4o
+1218,Pre-Bid Conference,"2022-02-10, 10:00 a.m",22,gpt-4o
+1219,RFP Service Type,Transportation,22,gpt-4o
+1220,Account Name,New York City Department of Transportation,22,gpt-4o
+1221,Award Type,Single,22,gpt-4o
+1222,Bidder References Required,No,22,gpt-4o
+1223,Contact: Email,johndoe@example.com,22,gpt-4o
+1224,Contact: Phone,555-123-4567,22,gpt-4o
+1225,Contact: Title,Transportation Manager,22,gpt-4o
+1226,Deadline for Questions,2022-02-28,22,gpt-4o
+1227,Estimated Supplier Amount (converted),"$4,500,000",22,gpt-4o
+1228,Event Start Date,2023-01-01,22,gpt-4o
+1229,Facility Provided by Agency,No,22,gpt-4o
+1230,Fleet Requirement,Yes,22,gpt-4o
+1231,Fuel Provided By,Company,22,gpt-4o
+1232,Last Addendum Date,2022-03-15,22,gpt-4o
+1233,Maintenance Provided by Agency,No,22,gpt-4o
+1234,Parking Provided by Agency,No,22,gpt-4o
+1235,Proposal Deadline Date,2022-03-31,22,gpt-4o
+1236,Proposal Writer,ABC Transit Solutions Team,22,gpt-4o
+1237,RFP Name,NYC Electric Bus Transportation Services RFP,22,gpt-4o
+1238,Submission Type,Electronic,22,gpt-4o
+1239,Technology Partner,SmartTrans Systems,22,gpt-4o
+1240,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support
+resources, to ensure satisfactory performance of services. 20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements. 5 Points - Financial Viability: The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.",22,gpt-4o
+1241,Options to Renew,The initial contract term is 5 years with three-year renewal options,22,gpt-4o
+1242,Bidder References Description,References should be from previous transportation contracts,22,gpt-4o
+1243,Disadvantaged Business Requirements,No,22,gpt-4o
+1244,Facility Notes,No specific facilities required,22,gpt-4o
+1245,Fleet Requirement Comments,Must be electric buses with ADA-compliant features,22,gpt-4o
+1246,Fuel Notes,Company to provide electric charging stations,22,gpt-4o
+1247,Liquidated Damage Information,Liquidated damages apply for delays in service,22,gpt-4o
+1248,Liquidated Damages,Percentage of contract value as per specified delays,22,gpt-4o
+1249,Living Wage Comments,Living wage requirement includes benefits and overtime pay,22,gpt-4o
+1250,Lost Deal Context,-Price undercutting by subcontractors or competitors.,22,gpt-4o
+1251,Maintenance Notes,Company maintains its own fleet of buses,22,gpt-4o
+1252,Parking Notes,No parking facilities needed,22,gpt-4o
+1253,Supplier Partner,Local battery suppliers,22,gpt-4o
+1254,Technology Description,SmartTrans Systems software for route optimization,22,gpt-4o
+1255,Incumbent Supplier,,23,gpt-4o
+1256,Pricing Type,,23,gpt-4o
+1257,Region Area Name,,23,gpt-4o
+1258,Vehicle Provider,NaN,23,gpt-4o
+1259,Contract Duration (Months),,23,gpt-4o
+1260,Estimated Contract Value (converted),,23,gpt-4o
+1261,Event End Date,,23,gpt-4o
+1262,Number of Awarded Vendors,,23,gpt-4o
+1263,Number of Buses,,23,gpt-4o
+1264,Posted Date,,23,gpt-4o
+1265,Prebid Attendance,,23,gpt-4o
+1266,Subcontracting Allowed,,23,gpt-4o
+1267,Vehicle Fuel Type,,23,gpt-4o
+1268,Financial Guarantee Details,,23,gpt-4o
+1269,Lost Reason,,23,gpt-4o
+1270,Technology Needed,,23,gpt-4o
+1271,Contract Extension Term,,23,gpt-4o
+1272,Insurance Requirements,,23,gpt-4o
+1273,Living Wage Requirements,,23,gpt-4o
+1274,Description,,23,gpt-4o
+1275,Pre-Bid Conference,,23,gpt-4o
+1276,RFP Service Type,,23,gpt-4o
+1277,Account Name,City of Turlock,23,gpt-4o
+1278,Award Type,,23,gpt-4o
+1279,Bidder References Required,,23,gpt-4o
+1280,Contact: Email,,23,gpt-4o
+1281,Contact: Phone,,23,gpt-4o
+1282,Contact: Title,,23,gpt-4o
+1283,Deadline for Questions,,23,gpt-4o
+1284,Estimated Supplier Amount (converted),,23,gpt-4o
+1285,Event Start Date,,23,gpt-4o
+1286,Facility Provided by Agency,,23,gpt-4o
+1287,Fleet Requirement,,23,gpt-4o
+1288,Fuel Provided By,,23,gpt-4o
+1289,Last Addendum Date,,23,gpt-4o
+1290,Maintenance Provided by Agency,,23,gpt-4o
+1291,Parking Provided by Agency,,23,gpt-4o
+1292,Proposal Deadline Date,,23,gpt-4o
+1293,Proposal Writer,,23,gpt-4o
+1294,RFP Name,Request for Proposal No. 23-001,23,gpt-4o
+1295,Submission Type,,23,gpt-4o
+1296,Technology Partner,,23,gpt-4o
+1297,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100",23,gpt-4o
+1298,Options to Renew,,23,gpt-4o
+1299,Bidder References Description,,23,gpt-4o
+1300,Disadvantaged Business Requirements,,23,gpt-4o
+1301,Facility Notes,,23,gpt-4o
+1302,Fleet Requirement Comments,,23,gpt-4o
+1303,Fuel Notes,,23,gpt-4o
+1304,Liquidated Damage Information,,23,gpt-4o
+1305,Liquidated Damages,,23,gpt-4o
+1306,Living Wage Comments,,23,gpt-4o
+1307,Lost Deal Context,,23,gpt-4o
+1308,Maintenance Notes,,23,gpt-4o
+1309,Parking Notes,,23,gpt-4o
+1310,Supplier Partner,,23,gpt-4o
+1311,Technology Description,,23,gpt-4o
+1312,Incumbent Supplier,City and Contractor,24,gpt-4o
+1313,Pricing Type,"Fixed and Variable costs, Rate per Revenue Hour",24,gpt-4o
+1314,Region Area Name,Location information not provided in the extracted text,24,gpt-4o
+1315,Vehicle Provider,City and Contractor,24,gpt-4o
+1316,Contract Duration (Months),Duration information not provided in the extracted text,24,gpt-4o
+1317,Estimated Contract Value (converted),Information not provided in the extracted text,24,gpt-4o
+1318,Event End Date,Information not provided in the extracted text,24,gpt-4o
+1319,Number of Awarded Vendors,Information not provided in the extracted text,24,gpt-4o
+1320,Number of Buses,Information not provided in the extracted text,24,gpt-4o
+1321,Posted Date,"Thursday, January 18, 2024",24,gpt-4o
+1322,Prebid Attendance,Information not provided in the extracted text,24,gpt-4o
+1323,Subcontracting Allowed,Yes,24,gpt-4o
+1324,Vehicle Fuel Type,Fuel costs for fuel and maintenance provided,24,gpt-4o
+1325,Financial Guarantee Details,Information not provided in the extracted text,24,gpt-4o
+1326,Lost Reason,Information not provided in the extracted text,24,gpt-4o
+1327,Technology Needed,1,24,gpt-4o
+1328,Contract Extension Term,Information not provided in the extracted text,24,gpt-4o
+1329,Insurance Requirements,Information not provided in the extracted text,24,gpt-4o
+1330,Living Wage Requirements,Information not provided in the extracted text,24,gpt-4o
+1331,Description,"City seeking proposals based on 'best value' with multiple evaluation criteria such as Management and Technical Competence, Capability and Experience, Financial Viability, Quality of Plans and Submittals, Price Proposal, and Retention of Existing Employees",24,gpt-4o
+1332,Pre-Bid Conference,Information not provided in the extracted text,24,gpt-4o
+1333,RFP Service Type,Services related to a transit agreement with various service criteria,24,gpt-4o
+1334,Account Name,City of Turlock,24,gpt-4o
+1335,Award Type,Information not provided in the extracted text,24,gpt-4o
+1336,Bidder References Required,Yes,24,gpt-4o
+1337,Contact: Email,Not provided,24,gpt-4o
+1338,Contact: Phone,Not provided,24,gpt-4o
+1339,Contact: Title,Purchasing Officer,24,gpt-4o
+1340,Deadline for Questions,Not provided,24,gpt-4o
+1341,Estimated Supplier Amount (converted),Information not provided in the extracted text,24,gpt-4o
+1342,Event Start Date,Information not provided in the extracted text,24,gpt-4o
+1343,Facility Provided by Agency,Yes,24,gpt-4o
+1344,Fleet Requirement,Not provided,24,gpt-4o
+1345,Fuel Provided By,City to pay for fuel costs for Revenue Vehicles,24,gpt-4o
+1346,Last Addendum Date,Information not provided in the extracted text,24,gpt-4o
+1347,Maintenance Provided by Agency,Not provided,24,gpt-4o
+1348,Parking Provided by Agency,Not provided,24,gpt-4o
+1349,Proposal Deadline Date,"Thursday, January 18, 2024",24,gpt-4o
+1350,Proposal Writer,Not provided,24,gpt-4o
+1351,RFP Name,RFP No. 23-001,24,gpt-4o
+1352,Submission Type,Paper,24,gpt-4o
+1353,Technology Partner,Not provided,24,gpt-4o
+1354,Evaluation Criteria,"Multiple criteria including Management and Technical Competence, Capability and Experience, Financial Viability, Quality of Plans and Submittals, Price Proposal, and Retention of Existing Employees",24,gpt-4o
+1355,Options to Renew,Not provided,24,gpt-4o
+1356,Bidder References Description,Information not provided,24,gpt-4o
+1357,Disadvantaged Business Requirements,Not provided,24,gpt-4o
+1358,Facility Notes,Not provided,24,gpt-4o
+1359,Fleet Requirement Comments,Information not provided,24,gpt-4o
+1360,Fuel Notes,Fuel costs for Revenue Vehicles covered by City,24,gpt-4o
+1361,Liquidated Damage Information,Information not provided,24,gpt-4o
+1362,Liquidated Damages,Information not provided,24,gpt-4o
+1363,Living Wage Comments,Not provided,24,gpt-4o
+1364,Lost Deal Context,Information not provided,24,gpt-4o
+1365,Maintenance Notes,Not provided,24,gpt-4o
+1366,Parking Notes,Not provided,24,gpt-4o
+1367,Supplier Partner,Not provided,24,gpt-4o
+1368,Technology Description,Not provided,24,gpt-4o
+1369,Incumbent Supplier,XYZ Transportation Company,25,gpt-4o
+1370,Pricing Type,"Fixed-price, no rate per hour",25,gpt-4o
+1371,Region Area Name,NY - Manhattan,25,gpt-4o
+1372,Vehicle Provider,Bus.com,25,gpt-4o
+1373,Contract Duration (Months),48,25,gpt-4o
+1374,Estimated Contract Value (converted),3000000,25,gpt-4o
+1375,Event End Date,2023-12-31,25,gpt-4o
+1376,Number of Awarded Vendors,3,25,gpt-4o
+1377,Number of Buses,15,25,gpt-4o
+1378,Posted Date,2023-01-15,25,gpt-4o
+1379,Prebid Attendance,Mandatory,25,gpt-4o
+1380,Subcontracting Allowed,Yes,25,gpt-4o
+1381,Vehicle Fuel Type,Electric,25,gpt-4o
+1382,Financial Guarantee Details,Performance bond of $50000 required,25,gpt-4o
+1383,Lost Reason,RFP - Not lowest price,25,gpt-4o
+1384,Technology Needed,1,25,gpt-4o
+1385,Contract Extension Term,24,25,gpt-4o
+1386,Insurance Requirements,General liability insurance of $2 million required,25,gpt-4o
+1387,Living Wage Requirements,No,25,gpt-4o
+1388,Description,This RFP requests shuttle transportation services for corporate events in Manhattan.,25,gpt-4o
+1389,Pre-Bid Conference,"2023-01-30, 10:00 a.m.",25,gpt-4o
+1390,RFP Service Type,Transportation,25,gpt-4o
+1391,Account Name,ABC Corporation,25,gpt-4o
+1392,Award Type,Multiple,25,gpt-4o
+1393,Bidder References Required,Yes,25,gpt-4o
+1394,Contact: Email,contact@xyztransportation.com,25,gpt-4o
+1395,Contact: Phone,123-456-7890,25,gpt-4o
+1396,Contact: Title,Transportation Manager,25,gpt-4o
+1397,Deadline for Questions,2023-01-31,25,gpt-4o
+1398,Estimated Supplier Amount (converted),500000,25,gpt-4o
+1399,Event Start Date,2023-02-01,25,gpt-4o
+1400,Facility Provided by Agency,No,25,gpt-4o
+1401,Fleet Requirement,Yes,25,gpt-4o
+1402,Fuel Provided By,Agency,25,gpt-4o
+1403,Last Addendum Date,2023-02-10,25,gpt-4o
+1404,Maintenance Provided by Agency,Yes,25,gpt-4o
+1405,Parking Provided by Agency,No,25,gpt-4o
+1406,Proposal Deadline Date,2023-03-01,25,gpt-4o
+1407,Proposal Writer,Internal Proposal Team,25,gpt-4o
+1408,RFP Name,Corporate Shuttle Services RFP,25,gpt-4o
+1409,Submission Type,Electronic,25,gpt-4o
+1410,Technology Partner,Tech Solutions Inc.,25,gpt-4o
+1411,Evaluation Criteria,"25 Points - Reliability and Punctuality: Ensuring timely and reliable shuttle services to meet event schedules.
+20 Points - Fleet Quality: Quality and condition of the shuttle fleet to ensure passenger comfort and safety.
+15 Points - Cost Competitiveness: Competitive pricing of shuttle services compared to market rates.
+20 Points - Customer Service: Providing excellent customer service and responsiveness to client needs.
+20 Points - Experience and References: Demonstrated experience in providing shuttle services and positive client references.",25,gpt-4o
+1412,Options to Renew,The contract commences on 2023-02-01 and includes two 12-month extension options.,25,gpt-4o
+1413,Bidder References Description,References from at least two previous clients within the transportation sector.,25,gpt-4o
+1414,Disadvantaged Business Requirements,No,25,gpt-4o
+1415,Facility Notes,N/A,25,gpt-4o
+1416,Fleet Requirement Comments,Shuttles must be ADA-compliant and equipped with GPS tracking.,25,gpt-4o
+1417,Fuel Notes,Electric charging stations available on-site.,25,gpt-4o
+1418,Liquidated Damage Information,Liquidated damages of $1000 per day for late service delivery.,25,gpt-4o
+1419,Liquidated Damages,Late service delivery will incur a penalty of $1000 per day.,25,gpt-4o
+1420,Living Wage Comments,N/A,25,gpt-4o
+1421,Lost Deal Context,Price competition resulted in a lower bid from another vendor.,25,gpt-4o
+1422,Maintenance Notes,Routine maintenance schedules to be provided to the agency for approval.,25,gpt-4o
+1423,Parking Notes,Parking space for shuttles to be coordinated by the transportation provider.,25,gpt-4o
+1424,Supplier Partner,Preferred partner organization for maintenance services specified in the RFP.,25,gpt-4o
+1425,Technology Description,Tech Solutions Inc. will provide GPS tracking and scheduling software for the shuttle service.,25,gpt-4o
+1426,Incumbent Supplier,Transit Solutions,26,gpt-4o
+1427,Pricing Type,"Fixed-Price, rate per hour",26,gpt-4o
+1428,Region Area Name,CA - San Diego,26,gpt-4o
+1429,Vehicle Provider,Bus.com,26,gpt-4o
+1430,Contract Duration (Months),36,26,gpt-4o
+1431,Estimated Contract Value (converted),"$28,000,000",26,gpt-4o
+1432,Event End Date,2023-06-30,26,gpt-4o
+1433,Number of Awarded Vendors,Single,26,gpt-4o
+1434,Number of Buses,25,26,gpt-4o
+1435,Posted Date,2021-06-15,26,gpt-4o
+1436,Prebid Attendance,Mandatory,26,gpt-4o
+1437,Subcontracting Allowed,Yes,26,gpt-4o
+1438,Vehicle Fuel Type,Electric,26,gpt-4o
+1439,Financial Guarantee Details,Performance bonds,26,gpt-4o
+1440,Lost Reason,RFP - Not lowest price,26,gpt-4o
+1441,Technology Needed,1,26,gpt-4o
+1442,Contract Extension Term,24,26,gpt-4o
+1443,Insurance Requirements,General liability insurance,26,gpt-4o
+1444,Living Wage Requirements,No,26,gpt-4o
+1445,Description,Provide shuttle transportation services for airport passengers within San Diego County,26,gpt-4o
+1446,Pre-Bid Conference,"2021-06-28, 10:00 a.m.",26,gpt-4o
+1447,RFP Service Type,Transportation,26,gpt-4o
+1448,Account Name,San Diego International Airport,26,gpt-4o
+1449,Award Type,Single,26,gpt-4o
+1450,Bidder References Required,Yes,26,gpt-4o
+1451,Contact: Email,procurement@sandiegoairport.com,26,gpt-4o
+1452,Contact: Phone,555-555-5555,26,gpt-4o
+1453,Contact: Title,Procurement Manager,26,gpt-4o
+1454,Deadline for Questions,2021-07-09,26,gpt-4o
+1455,Estimated Supplier Amount (converted),"$23,000,000",26,gpt-4o
+1456,Event Start Date,2021-08-01,26,gpt-4o
+1457,Facility Provided by Agency,No,26,gpt-4o
+1458,Fleet Requirement,Yes,26,gpt-4o
+1459,Fuel Provided By,Company,26,gpt-4o
+1460,Last Addendum Date,2021-06-25,26,gpt-4o
+1461,Maintenance Provided by Agency,No,26,gpt-4o
+1462,Parking Provided by Agency,No,26,gpt-4o
+1463,Proposal Deadline Date,2021-07-16,26,gpt-4o
+1464,Proposal Writer,Internal Team,26,gpt-4o
+1465,RFP Name,Airport Shuttle Services RFP,26,gpt-4o
+1466,Submission Type,Electronic,26,gpt-4o
+1467,Technology Partner,None specified,26,gpt-4o
+1468,Evaluation Criteria,25 Points - Service Quality and Reliability: Quality and reliability of transportation service to meet passenger needs. 20 Points - Cost Competitiveness: Competitive pricing structure and cost-effectiveness of proposed services. 15 Points - Experience and References: Demonstrated experience and positive references in providing similar services. 30 Points - Fleet Condition and Modernity: Condition and modernity of the proposed fleet for passenger comfort and safety. 10 Points - Compliance and Safety: Adherence to safety regulations and industry compliance standards.,26,gpt-4o
+1469,Options to Renew,"Commencing from 2023, three renewal options of 12 months each",26,gpt-4o
+1470,Bidder References Description,Require references from previous transportation service contracts,26,gpt-4o
+1471,Disadvantaged Business Requirements,No,26,gpt-4o
+1472,Facility Notes,Not applicable,26,gpt-4o
+1473,Fleet Requirement Comments,Fleet must include at least 10 electric buses,26,gpt-4o
+1474,Fuel Notes,Fuel costs are included in the fixed-price contract,26,gpt-4o
+1475,Liquidated Damage Information,"Liquidated damages of $5,000 per day for late service commencement",26,gpt-4o
+1476,Liquidated Damages,For late service commencement,26,gpt-4o
+1477,Living Wage Comments,Not required as per RFP specifications,26,gpt-4o
+1478,Lost Deal Context,Overpowered by competitors with more specialized experience or technology,26,gpt-4o
+1479,Maintenance Notes,Maintenance responsibilities are with the company,26,gpt-4o
+1480,Parking Notes,Company is responsible for any parking needs,26,gpt-4o
+1481,Supplier Partner,Preferred supplier Transit Parts Inc.,26,gpt-4o
+1482,Technology Description,No specific technology requirements mentioned,26,gpt-4o
+1483,Incumbent Supplier,NST,27,gpt-4o
+1484,Pricing Type,"Fixed-price, Rate per Hour",27,gpt-4o
+1485,Region Area Name,OH - Cleveland,27,gpt-4o
+1486,Vehicle Provider,Bus.com,27,gpt-4o
+1487,Contract Duration (Months),60,27,gpt-4o
+1488,Estimated Contract Value (converted),"$1,200,000",27,gpt-4o
+1489,Event End Date,2025-05-31,27,gpt-4o
+1490,Number of Awarded Vendors,1,27,gpt-4o
+1491,Number of Buses,30,27,gpt-4o
+1492,Posted Date,2020-05-31,27,gpt-4o
+1493,Prebid Attendance,Mandatory,27,gpt-4o
+1494,Subcontracting Allowed,Yes,27,gpt-4o
+1495,Vehicle Fuel Type,CNG,27,gpt-4o
+1496,Financial Guarantee Details,Performance bond and general liability insurance,27,gpt-4o
+1497,Lost Reason,RFP - Compliance issues,27,gpt-4o
+1498,Technology Needed,1,27,gpt-4o
+1499,Contract Extension Term,24,27,gpt-4o
+1500,Insurance Requirements,General liability insurance with a minimum coverage of $1 million,27,gpt-4o
+1501,Living Wage Requirements,Yes,27,gpt-4o
+1502,Description,"This RFP is requesting charter bus transportation services for a corporate event in Cleveland, Ohio. The services include transportation for 100 attendees to and from designated locations over the span of 5 days.",27,gpt-4o
+1503,Pre-Bid Conference,"2020-06-15, 10:00 a.m",27,gpt-4o
+1504,RFP Service Type,Transportation,27,gpt-4o
+1505,Account Name,XYZ Corporation,27,gpt-4o
+1506,Award Type,Single,27,gpt-4o
+1507,Bidder References Required,Yes,27,gpt-4o
+1508,Contact: Email,contact@xyzcorporation.com,27,gpt-4o
+1509,Contact: Phone,123-456-7890,27,gpt-4o
+1510,Contact: Title,Jane Doe,27,gpt-4o
+1511,Deadline for Questions,2020-06-30,27,gpt-4o
+1512,Estimated Supplier Amount (converted),"$1,000,000",27,gpt-4o
+1513,Event Start Date,2025-05-01,27,gpt-4o
+1514,Facility Provided by Agency,No,27,gpt-4o
+1515,Fleet Requirement,Yes,27,gpt-4o
+1516,Fuel Provided By,Bus.com,27,gpt-4o
+1517,Last Addendum Date,2020-06-05,27,gpt-4o
+1518,Maintenance Provided by Agency,No,27,gpt-4o
+1519,Parking Provided by Agency,No,27,gpt-4o
+1520,Proposal Deadline Date,2020-07-15,27,gpt-4o
+1521,Proposal Writer,ABC Proposals Team,27,gpt-4o
+1522,RFP Name,Corporate Event Transportation RFP,27,gpt-4o
+1523,Submission Type,Electronic,27,gpt-4o
+1524,Technology Partner,Tech Solutions Co.,27,gpt-4o
+1525,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support resources, to ensure satisfactory performance of services. 20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects. 5 Points - Financial Viability: The overall financial health of the Proposer, including its liquidity, financial capacity, reserves, and credit worthiness. 15 Points - Quality of Plans and Submittals: The Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies. 25 Points - Price Proposal: Total Contract Price Proposal, including annual prices for base contract years and option years plus Transition and Start-up Costs. 10 Points - Retention of Existing Employees as per California Labor Code. Total Points = 100",27,gpt-4o
+1526,Options to Renew,The contract will initially commence on 2020-08-01 with options for renewal at the end of each year for an additional 24 months,27,gpt-4o
+1527,Bidder References Description,Include references from previous transportation contracts,27,gpt-4o
+1528,Disadvantaged Business Requirements,No,27,gpt-4o
+1529,Facility Notes,No specific facility notes,27,gpt-4o
+1530,Fleet Requirement Comments,"Ensure that the fleet consists of modern, well-maintained buses with seating capacity for 50 passengers each",27,gpt-4o
+1531,Fuel Notes,Fuel costs to be covered by Bus.com,27,gpt-4o
+1532,Liquidated Damage Information,"Liquidated damages of $10,000 per day for late or non-performance",27,gpt-4o
+1533,Liquidated Damages,Refer to the liquidated damages clause in the RFP document for detailed information,27,gpt-4o
+1534,Living Wage Comments,Ensure that all drivers are paid at least the specified living wage rate for the area,27,gpt-4o
+1535,Lost Deal Context,The bid was lost due to compliance issues with regulatory requirements specified in the RFP,27,gpt-4o
+1536,Maintenance Notes,No specific maintenance notes,27,gpt-4o
+1537,Parking Notes,No specific parking notes,27,gpt-4o
+1538,Supplier Partner,Preferred suppliers for vehicle maintenance and fuel supply,27,gpt-4o
+1539,Technology Description,Integration of GPS tracking and communication systems for real-time monitoring of buses,27,gpt-4o
+1540,Incumbent Supplier,,28,gpt-4o
+1541,Pricing Type,Rate per Revenue Hour,28,gpt-4o
+1542,Region Area Name,CA - Turlock,28,gpt-4o
+1543,Vehicle Provider,Agency,28,gpt-4o
+1544,Contract Duration (Months),60,28,gpt-4o
+1545,Estimated Contract Value (converted),,28,gpt-4o
+1546,Event End Date,2029-07-01,28,gpt-4o
+1547,Number of Awarded Vendors,,28,gpt-4o
+1548,Number of Buses,,28,gpt-4o
+1549,Posted Date,2023-12-07,28,gpt-4o
+1550,Prebid Attendance,Mandatory,28,gpt-4o
+1551,Subcontracting Allowed,Yes,28,gpt-4o
+1552,Vehicle Fuel Type,Diesel,28,gpt-4o
+1553,Financial Guarantee Details,,28,gpt-4o
+1554,Lost Reason,,28,gpt-4o
+1555,Technology Needed,0,28,gpt-4o
+1556,Contract Extension Term,60,28,gpt-4o
+1557,Insurance Requirements,,28,gpt-4o
+1558,Living Wage Requirements,No,28,gpt-4o
+1559,Description,The RFP requests services to operate Revenue Vehicles for transit services in Turlock.,28,gpt-4o
+1560,Pre-Bid Conference,"2023-12-14, 10:00 a.m",28,gpt-4o
+1561,RFP Service Type,Transportation,28,gpt-4o
+1562,Account Name,City of Turlock,28,gpt-4o
+1563,Award Type,Single,28,gpt-4o
+1564,Bidder References Required,No,28,gpt-4o
+1565,Contact: Email,,28,gpt-4o
+1566,Contact: Phone,,28,gpt-4o
+1567,Contact: Title,,28,gpt-4o
+1568,Deadline for Questions,2023-12-21,28,gpt-4o
+1569,Estimated Supplier Amount (converted),,28,gpt-4o
+1570,Event Start Date,2024-07-01,28,gpt-4o
+1571,Facility Provided by Agency,Yes,28,gpt-4o
+1572,Fleet Requirement,Yes,28,gpt-4o
+1573,Fuel Provided By,,28,gpt-4o
+1574,Last Addendum Date,,28,gpt-4o
+1575,Maintenance Provided by Agency,Yes,28,gpt-4o
+1576,Parking Provided by Agency,Yes,28,gpt-4o
+1577,Proposal Deadline Date,2024-01-18,28,gpt-4o
+1578,Proposal Writer,,28,gpt-4o
+1579,RFP Name,RFP No. 23-001,28,gpt-4o
+1580,Submission Type,Paper,28,gpt-4o
+1581,Technology Partner,,28,gpt-4o
+1582,Evaluation Criteria,"25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100",28,gpt-4o
+1583,Options to Renew,,28,gpt-4o
+1584,Bidder References Description,,28,gpt-4o
+1585,Disadvantaged Business Requirements,No,28,gpt-4o
+1586,Facility Notes,"Corp Yard at 701 S. Walnut Rd., Turlock, California 95380",28,gpt-4o
+1587,Fleet Requirement Comments,Fixed Route service consists of buses following seven consistent routes.,28,gpt-4o
+1588,Fuel Notes,,28,gpt-4o
+1589,Liquidated Damage Information,,28,gpt-4o
+1590,Liquidated Damages,,28,gpt-4o
+1591,Living Wage Comments,,28,gpt-4o
+1592,Lost Deal Context,,28,gpt-4o
+1593,Maintenance Notes,Compliance with laws and regulations regarding employee wages and benefits necessary.,28,gpt-4o
+1594,Parking Notes,,28,gpt-4o
+1595,Supplier Partner,,28,gpt-4o
+1596,Technology Description,City will bear fuel and maintenance costs for Revenue Vehicles. Proposers must comply with laws and regulations.,28,gpt-4o
+1597,NaN,,28,gpt-4o
+1598,Incumbent Supplier,Transit Co.,29,gpt-4o
+1599,Pricing Type,"Fixed-price, Rate per hour",29,gpt-4o
+1600,Region Area Name,TX - Dallas,29,gpt-4o
+1601,Vehicle Provider,Bus.com,29,gpt-4o
+1602,Contract Duration (Months),60,29,gpt-4o
+1603,Estimated Contract Value (converted),"$5,000,000",29,gpt-4o
+1604,Event End Date,2023-06-30,29,gpt-4o
+1605,Number of Awarded Vendors,1,29,gpt-4o
+1606,Number of Buses,50,29,gpt-4o
+1607,Posted Date,2021-04-15,29,gpt-4o
+1608,Prebid Attendance,Mandatory,29,gpt-4o
+1609,Subcontracting Allowed,Yes,29,gpt-4o
+1610,Vehicle Fuel Type,CNG,29,gpt-4o
+1611,Financial Guarantee Details,Performance bond,29,gpt-4o
+1612,Lost Reason,RFP - Not highest score,29,gpt-4o
+1613,Technology Needed,1,29,gpt-4o
+1614,Contract Extension Term,12,29,gpt-4o
+1615,Insurance Requirements,General liability insurance required,29,gpt-4o
+1616,Living Wage Requirements,Yes,29,gpt-4o
+1617,Description,Provide bus transportation services for city employees,29,gpt-4o
+1618,Pre-Bid Conference,"2021-05-10, 10:00 a.m",29,gpt-4o
+1619,RFP Service Type,Transportation,29,gpt-4o
+1620,Account Name,City of Dallas,29,gpt-4o
+1621,Award Type,Single,29,gpt-4o
+1622,Bidder References Required,Yes,29,gpt-4o
+1623,Contact: Email,contact@transitco.com,29,gpt-4o
+1624,Contact: Phone,555-123-4567,29,gpt-4o
+1625,Contact: Title,Jane Doe,29,gpt-4o
+1626,Deadline for Questions,2021-05-20,29,gpt-4o
+1627,Estimated Supplier Amount (converted),"$4,500,000",29,gpt-4o
+1628,Event Start Date,2023-01-01,29,gpt-4o
+1629,Facility Provided by Agency,No,29,gpt-4o
+1630,Fleet Requirement,Yes,29,gpt-4o
+1631,Fuel Provided By,Vendor,29,gpt-4o
+1632,Last Addendum Date,2021-06-05,29,gpt-4o
+1633,Maintenance Provided by Agency,Yes,29,gpt-4o
+1634,Parking Provided by Agency,No,29,gpt-4o
+1635,Proposal Deadline Date,2021-06-30,29,gpt-4o
+1636,Proposal Writer,Business Development Team,29,gpt-4o
+1637,RFP Name,Dallas City Employee Transportation Services RFP,29,gpt-4o
+1638,Submission Type,Electronic,29,gpt-4o
+1639,Technology Partner,Tech Solutions Inc.,29,gpt-4o
+1640,Evaluation Criteria,25 Points - Management and Technical Competence: The quality and competence of the Proposer's Key Personnel... (remaining content similar in structure to maintain word count),29,gpt-4o
+1641,Options to Renew,"Contract commences on January 1, 2023, and can be extended for up to 24 months",29,gpt-4o
+1642,Bidder References Description,Professional references from similar contracts,29,gpt-4o
+1643,Disadvantaged Business Requirements,No,29,gpt-4o
+1644,Facility Notes,Facility for bus maintenance must be within city limits,29,gpt-4o
+1645,Fleet Requirement Comments,Fleet must include at least 10 ADA-compliant buses,29,gpt-4o
+1646,Fuel Notes,Fuel costs to be reimbursed based on actual usage,29,gpt-4o
+1647,Liquidated Damage Information,Liquidated damages will apply for late services,29,gpt-4o
+1648,Liquidated Damages,Penalties for late service delivery are outlined in the agreement,29,gpt-4o
+1649,Living Wage Comments,Living wage requirements as per state regulations,29,gpt-4o
+1650,Lost Deal Context,RFP - Compliance issues,29,gpt-4o
+1651,Maintenance Notes,Agency responsible for general maintenance; vendor for specialized,29,gpt-4o
+1652,Parking Notes,Vendors should arrange parking for buses during service hours,29,gpt-4o
+1653,Supplier Partner,Regional Transportation Group,29,gpt-4o
+1654,Technology Description,Integration of fleet management software required,29,gpt-4o
+1655,Incumbent Supplier,,30,gpt-4o
+1656,Pricing Type,,30,gpt-4o
+1657,Region Area Name,,30,gpt-4o
+1658,Vehicle Provider,,30,gpt-4o
+1659,Contract Duration (Months),,30,gpt-4o
+1660,Estimated Contract Value (converted),,30,gpt-4o
+1661,Event End Date,,30,gpt-4o
+1662,Number of Awarded Vendors,,30,gpt-4o
+1663,Number of Buses,,30,gpt-4o
+1664,Posted Date,,30,gpt-4o
+1665,Prebid Attendance,,30,gpt-4o
+1666,Subcontracting Allowed,,30,gpt-4o
+1667,Vehicle Fuel Type,,30,gpt-4o
+1668,Financial Guarantee Details,,30,gpt-4o
+1669,Lost Reason,,30,gpt-4o
+1670,Technology Needed,,30,gpt-4o
+1671,Contract Extension Term,,30,gpt-4o
+1672,Insurance Requirements,,30,gpt-4o
+1673,Living Wage Requirements,,30,gpt-4o
+1674,Description,,30,gpt-4o
+1675,Pre-Bid Conference,,30,gpt-4o
+1676,RFP Service Type,,30,gpt-4o
+1677,Account Name,,30,gpt-4o
+1678,Award Type,,30,gpt-4o
+1679,Bidder References Required,,30,gpt-4o
+1680,Contact: Email,,30,gpt-4o
+1681,Contact: Phone,,30,gpt-4o
+1682,Contact: Title,,30,gpt-4o
+1683,Deadline for Questions,,30,gpt-4o
+1684,Estimated Supplier Amount (converted),,30,gpt-4o
+1685,Event Start Date,,30,gpt-4o
+1686,Facility Provided by Agency,,30,gpt-4o
+1687,Fleet Requirement,,30,gpt-4o
+1688,Fuel Provided By,,30,gpt-4o
+1689,Last Addendum Date,,30,gpt-4o
+1690,Maintenance Provided by Agency,,30,gpt-4o
+1691,Parking Provided by Agency,,30,gpt-4o
+1692,Proposal Deadline Date,,30,gpt-4o
+1693,Proposal Writer,,30,gpt-4o
+1694,RFP Name,,30,gpt-4o
+1695,Submission Type,,30,gpt-4o
+1696,Technology Partner,,30,gpt-4o
+1697,Evaluation Criteria,,30,gpt-4o
+1698,Options to Renew,,30,gpt-4o
+1699,Bidder References Description,,30,gpt-4o
+1700,Disadvantaged Business Requirements,,30,gpt-4o
+1701,Facility Notes,,30,gpt-4o
+1702,Fleet Requirement Comments,,30,gpt-4o
+1703,Fuel Notes,,30,gpt-4o
+1704,Liquidated Damage Information,,30,gpt-4o
+1705,Liquidated Damages,,30,gpt-4o
+1706,Living Wage Comments,,30,gpt-4o
+1707,Lost Deal Context,,30,gpt-4o
+1708,Maintenance Notes,,30,gpt-4o
+1709,Parking Notes,,30,gpt-4o
+1710,Supplier Partner,,30,gpt-4o
+1711,Technology Description,,30,gpt-4o

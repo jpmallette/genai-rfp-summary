@@ -1,0 +1,19 @@
+,field,chatgpt_value,run_number,model_used,temperature,prompt,prompt_version,config
+0,Event Start Date,2024-07-01,1,gpt-3.5-turbo,0.7,"{
+    ""Event Start Date"": ""Identify when the services or contract are set to begin. 
+    Usually refer to event start date in the contract. 
+    Provide your response using the following date format YYYY-MM-DD. 
+    Make sure to return only the date value without any additional text or characters.""
+}",v2,gpt-3.5-turbo_0.7_v2
+1,Event Start Date,2024-07-01,2,gpt-3.5-turbo,0.7,"{
+    ""Event Start Date"": ""Identify when the services or contract are set to begin. 
+    Usually refer to event start date in the contract. 
+    Provide your response using the following date format YYYY-MM-DD. 
+    Make sure to return only the date value without any additional text or characters.""
+}",v2,gpt-3.5-turbo_0.7_v2
+2,Event Start Date,2024-07-01,3,gpt-3.5-turbo,0.7,"{
+    ""Event Start Date"": ""Identify when the services or contract are set to begin. 
+    Usually refer to event start date in the contract. 
+    Provide your response using the following date format YYYY-MM-DD. 
+    Make sure to return only the date value without any additional text or characters.""
+}",v2,gpt-3.5-turbo_0.7_v2

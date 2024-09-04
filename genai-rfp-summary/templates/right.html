@@ -1,0 +1,5 @@
+{% if show_image %}
+    <img src="{{ url_for('static', filename='images/RFP-01.png') }}" style="max-width: 100%; height: auto; max-height: 700px; border: none;">
+{% else %}
+    <p>Click the 'Proposal Deadline Date' button to display the image.</p>
+{% endif %}

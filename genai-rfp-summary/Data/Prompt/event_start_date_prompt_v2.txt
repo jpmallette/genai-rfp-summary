@@ -1,0 +1,6 @@
+{
+    "Event Start Date": "Identify when the services or contract are set to begin. 
+    Usually refer to event start date in the contract. 
+    Provide your response using the following date format YYYY-MM-DD. 
+    Make sure to return only the date value without any additional text or characters."
+}

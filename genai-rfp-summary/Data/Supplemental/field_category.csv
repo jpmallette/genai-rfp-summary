@@ -1,0 +1,68 @@
+category,field
+Opportunity Information,Account Name
+RFP Summary,Award Type
+Additional Information,Bid Submission Documents
+Deal Specifics,Bidder References Description
+Deal Specifics,Bidder References Required
+Opportunity Team & Contacts,Contact: Email
+Opportunity Team & Contacts,Contact: Phone
+Opportunity Team & Contacts,Contact: Title
+Dates and Deadlines,Contract Duration (Months)
+Dates and Deadlines,Contract Extension Term
+Dates and Deadlines,Created Date
+Dates and Deadlines,Deadline for Questions
+High Level Summary,Description
+Deal Specifics,Disadvantaged Business Comments
+Deal Specifics,Disadvantaged Business Requirements
+Estimates,Estimated Contract Value (converted)
+Estimates,Estimated Contract Value (converted) Currency
+Estimates,Estimated Supplier Amount (converted)
+Estimates,Estimated Supplier Amount (converted) Currency
+Additional Information,Evaluation Criteria
+Dates and Deadlines,Event End Date
+Dates and Deadlines,Event Start Date
+Deal Specifics,Facility Notes
+Deal Specifics,Facility Provided by Agency
+Additional Information,Financial Guarantee Details
+Deal Specifics,Fleet Requirement
+Deal Specifics,Fleet Requirement Comments
+Deal Specifics,Fuel Notes
+Deal Specifics,Fuel Provided By
+RFP Summary,Google Drive Folder URL
+RFP Summary,Incumbent Supplier
+Additional Information,Insurance Requirements
+RFP Summary,Issuing Platform
+Dates and Deadlines,Last Addendum Date
+RFP Summary,Link to RFP
+Deal Specifics,Liquidated Damage Information
+Deal Specifics,Liquidated Damages
+Deal Specifics,Living Wage Comments
+Deal Specifics,Living Wage Requirements
+Lost Opportunity Analysis,Lost Deal Context
+Lost Opportunity Analysis,Lost Reason
+Deal Specifics,Maintenance Notes
+Deal Specifics,Maintenance Provided by Agency
+RFP Summary,Method of Solicitation
+Deal Specifics,Number of Awarded Vendors
+Deal Specifics,Number of Buses
+Dates and Deadlines,Options to Renew
+Deal Specifics,Parking Notes
+Deal Specifics,Parking Provided by Agency
+Dates and Deadlines,Posted Date
+Dates and Deadlines,Pre-Bid Conference
+Dates and Deadlines,Prebid Attendance
+RFP Summary,Pricing Type
+Dates and Deadlines,Proposal Deadline Date
+RFP Summary,Proposal Writer
+RFP Summary,Region Area Kind
+RFP Summary,Region Area Name
+RFP Summary,RFP Name
+RFP Summary,RFP Service Type
+RFP Summary,Subcontracting Allowed
+RFP Summary,Submission Type
+RFP Summary,Supplier Partner
+Deal Specifics,Technology Description
+Deal Specifics,Technology Needed
+Deal Specifics,Technology Partner
+Deal Specifics,Vehicle Fuel Type
+Deal Specifics,Vehicle Provider

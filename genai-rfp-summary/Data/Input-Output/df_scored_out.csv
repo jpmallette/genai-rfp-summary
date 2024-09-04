@@ -1,0 +1,160 @@
+,field,prompt_description,field_score_type,chatgpt_value,sf_value,score
+0,Incumbent Supplier,Find out who the current incumbent supplier is if the contract is a renewal.,binary,ABC Transit Services,Storrer Transporation Systems,0.0
+1,Pricing Type,"Extract the pricing structure, such as fixed-price or cost-plus. Also include whether a rate per hour is included. Only include those two parameters of information",binary,"Fixed-Price, Rate per Hour",Fixed Monthly Cost and a Rate per Revenue Hour.,0.0
+2,Region Area Name,"Display the abbreviation for the city/state that the project is in and then the specific area it is in 
+for example ##### 
+SC - Wilmington",binary,CA - Los Angeles,CA - California Central California Valley Area,0.0
+3,Vehicle Provider,"Identify the expected vehicle provider. Either Bus.com, Agency, Partner / Contractor
+. Enter only one value with no additional context. 
+
+### definitions 
+
+Agency: This typically refers to governmental or quasi-governmental organizations responsible for public transportation services. They manage and operate transportation systems, such as city buses, subways, and other public transit options.
+Bus.com: This is likely the company itself, Bus.com, which provides charter bus rental services. When listed as a vehicle provider, it indicates that Bus.com is directly offering its services for the specific opportunity or RFP.
+Partner: This refers to external partners or subcontractors who collaborate with the primary company (Bus.com) to fulfill transportation needs. These partners could be other transportation companies, independent contractors, or specialized service providers that supplement Bus.com's offerings.",binary,Bus.com,Agency,0.0
+4,Contract Duration (Months),"Extract the total duration of the contract in months. 
+Typically it is the (year of end date  - the year of the start date) multiplied by 12
+Make sure to return only the value without any additional text or characters.",binary,48,72,0.0
+5,Estimated Contract Value (converted),Determine the estimated total value of the contract.,binary,15000000,13517350,0.0
+6,Event End Date,Determine when the services or contract are scheduled to conclude. This date should factor in any potential extensions in the contract.  Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters. This format plainly provides the date without any additional context.,binary,2023-06-30,2030-06-30,0.0
+7,Number of Awarded Vendors,Note how many vendors will be awarded the contract.,binary,1,1,1.0
+8,Number of Buses,"Identify the number of buses. provide the number 
+without additional text or characters.",binary,20,34,0.0
+9,Posted Date,Find the date the RFP was officially posted. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters. This format plainly provides the date without any additional context.,binary,2022-01-15,2023-11-09,0.0
+11,Prebid Attendance," Pre-Bid attendance refers to participation in a meeting or sire visit organized before the submission of bids for a project or contract. If there is no Prebid attendance, classify it as “No Prebid”. If the prebid attendance is optional, classify it as “Optional”. If the prebid is not available, classify it as “NaN”. If the prebid is mandatory, classify it as “Mandatory"". If the the Prebid atendance is ""non-mandatory"" or ""not mandotory"", classift it as as ""Optional"".",binary,Mandatory,,0.0
+14,Subcontracting Allowed,Note whether subcontracting is permitted under the terms of the RFP. Provide your response either 'Yes' or 'No'. Make sure to return only the value without any additional text or characters.,binary,,0,0.0
+15,Vehicle Fuel Type,"Identify the vehicle fuel type that will be used for the various forms of transportation. 
+Enter either ""Diesel"", ""Hydrogen"", ""Electric"", ""CNG"". Enter only the values without additional context",binary,Electric,CNG,0.0
+23,Pre-Bid Conference,"Provide your response using the following date format YYYY-MM-DD, HH:MM a.m/p.m 
+Make sure to return only the date value without any additional text or characters.
+",binary,"2022-02-10, 10:00 a.m.","2023-11-29, 10:00 a.m.",0.0
+25,RFP Service Type,"Determine the type of service requested in the RFP, such as transportation, IT services, Transit ,etc. with no additional word context",binary,Transportation,Transit,0.0
+26,Account Name,List the name of the account or entity issuing the RFP.,binary,XYZ Corporation,City of Turlock,0.0
+27,Award Type,Extract the type of award expected. Provide your response either enter 'Single' or 'Multiple'. Make sure to return only the value without any additional text or characters.,binary,Single,Single,1.0
+28,Bidder References Required,Identify if we need bidder references or not. Provide your response either 'Yes' or 'No'. Make sure to return only the value without any additional text or characters.,binary,Yes,,0.0
+29,Contact: Email,Provide the email address of the contact person.,binary,contact@xyzcorp.com,,0.0
+30,Contact: Phone,List the contact person’s phone number.,binary,123-456-7890,,0.0
+31,Contact: Title,Name the primary contact person for the RFP.,binary,Transportation Manager,,0.0
+32,Deadline for Questions,Note the final date for submitting any inquiries regarding the RFP. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters. This format plainly provides the date without any additional context.,binary,2022-02-28,2023-12-06,0.0
+33,Estimated Supplier Amount (converted),Note the estimated cost associated with fulfilling the contract requirements.,binary,12000000,,0.0
+34,Event Start Date,Identify when the services or contract are set to begin. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters. This format plainly provides the date without any additional context.,binary,2023-07-01,2024-07-01,0.0
+35,Facility Provided by Agency,"Note if the agency provides any facility for the service. Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",binary,,,1.0
+36,Fleet Requirement,"Determine if a fleet is required.
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",binary,Yes,,0.0
+37,Fuel Provided By,"Identify who will provide the fuel, if applicable.",binary,Vendor,,0.0
+38,Last Addendum Date,"Determine the last addendum Date. Provide your response using the following date format YYYY-MM-DD. 
+Make sure to return only the date value without any additional text or characters.",binary,2022-03-15,,0.0
+39,Maintenance Provided by Agency,Identify whether the agency will provide maintenance services.,binary,,,1.0
+40,Parking Provided by Agency,"Determine if parking facilities are provided by the agency.
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",binary,,,1.0
+41,Proposal Deadline Date,Extract the deadline by which the proposal must be submitted. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters.,binary,2022-03-31,2024-01-18,0.0
+42,Proposal Writer,Identify the individual or team responsible for writing the proposal.,binary,ABC Transit Services Proposal Team,,0.0
+43,RFP Name,Note the formal name of the RFP as given in the document.,binary,Corporate Event Transportation Services RFP,Transit Operations and Management Services,0.0
+44,Submission Type,"Identify the required format for submitting proposals, Electronic or Paper. 
+Enter only 1 word without additional context.",binary,Electronic,Paper,0.0
+45,Technology Partner,Identify any required or preferred technology partners.,binary,Tech Solutions Inc.,,0.0
+16,Financial Guarantee Details,Note any financial guarantees required by the RFP. Also include proposal bonds and insurance coverages if mentioned in the operations agreement,human,"Performance Bond, Insurance Coverage","Proposal Bond - Each Proposer shall provide a proposal bond or certified check in the amount of $25,000, payable to City of Turlock.
+Performance Bond and Insurance - Each Proposer shall provide evidence of the Proposer’s ability to obtain (1) the performance bond required under the Draft Operations Agreement, in the form of a letter from a surety company that has an A.M. Best rating of “A” or better and that is authorized to conduct business in California, and (2) the insurance coverages required under Section 27 of the Draft Operations Agreement, in the form of a letter from an insurance carrier or broker that has an A.M. Best rating of “A” or better and that is authorized to conduct business in California. These letters should specifically reference the bonding or insurance requirements, as",0.06
+17,Lost Reason,"Determine the reason provided for any lost bids.
+Select from the options given here:
+RFP - Lack of partner: partnerships or subcontractors to meet the RFP requirements. (Tom do we have a rule of thumb?)
+
+RFP - Not enough time to respond: Tom what is the lead time that we need?
+
+RFP - Out of scope: Do we have rule of thumb (?)
+
+RFP - Agency provides vehicles: if we have to bring our own vehicles pick this value.
+
+RFP - Not highest score: The bid was evaluated but did not achieve the highest score in the assessment process, often due to lower marks in various evaluation criteria.
+
+RFP - Irrelevant - out of scope: Similar to ""Out of scope,"" the bid was considered irrelevant because the services offered were outside the intended scope of the RFP.
+
+RFP - Cancelled by public authority: The RFP process was terminated or canceled by the issuing public authority, leading to the bid being nullified.
+
+RFP - Not lowest price: The bid was lost because it did not offer the lowest price compared to other submissions, which was a significant deciding factor.
+
+RFP - Price only bid: The bid was lost in a scenario where the decision was made purely on price, and the company's bid was not the lowest.
+
+RFP - No partners in area: The bid was lost because there were no suitable partners or subcontractors available in the geographic area required by the RFP.
+
+RFP - Compliance issues: The bid was lost due to issues with compliance, such as not meeting regulatory requirements or failing to adhere to the RFP's specified guidelines.
+
+RFP - Relationship: The bid was lost because the existing relationships between the agency and other vendors influenced the decision, favoring those with stronger ties.
+
+RFP - Paratransit service: The bid was lost because it was specifically for paratransit services, which the company might not have been adequately prepared to provide.
+
+RFP - Other: The bid was lost for reasons not categorized in other specific metrics; this is a general or miscellaneous category.
+
+RFP - Turnaround time: The bid was lost because the required turnaround time for service delivery was too short for the company to meet.
+
+RFP - Too small: The bid was lost because the project was considered too small in scale or value to be worthwhile for the company.
+
+RFP - Lack of supply / too remote: The bid was lost due to challenges in supplying services to remote locations or areas with limited access.
+
+RFP - Too small deal: Similar to ""Too small,"" the deal size was too insignificant to justify the company's investment or effort.
+
+RFP - Non-compliant: The bid was disqualified because it did not comply with the necessary RFP requirements or submission guidelines.",human,RFP - Not highest score,RFP - Agency provides vehicles,0.25
+18,Technology Needed,Do we need technology. Enter 1 (if the answer is Yes) or 0 (if the answer is No )with no additional word context,human,1,1,1.0
+19,Contract Extension Term,"Enter the length of a possible contract extension (in months) of this RFP. This is done by adding up all the potential extension years in the contract and converting them into months 
+for example ##
+The contract of the waterloo RFP, ends 2027, but can have three one year extension deals, this should output 36 months ",human,24,24,1.0
+20,Insurance Requirements,"Can you display the details regarding the insurance
+this can include general liability details.",human,General Liability Coverage,"General Liability. Professional shall carry general liability insurance in the amount of Ten Million Dollars ($10,000,000.00) per occurrence for bodily injury, personal injury, and property damage. If commercial general liability insurance or another form with a general aggregate limit is used, either the general aggregate limit shall apply separately to this Project or the general aggregate shall be Ten Million Dollars ($10,000,000.00).
+Workers’ Compensation Insurance and Employer's Liability. Professional shall carry workers’ compensation insurance as required by the State of California under the Labor Code. Professional shall also carry employer’s liability insurance in the amount of One Million Dollars ($1,000,000.00) per accident, with a One Million Dollars ($1,000,000.00) policy limit for bodily injury by disease, and a One Million Dollars ($1,000,000.00) limit for each employee’s bodily injury by disease.",0.03
+21,Living Wage Requirements,"Extract any requirements related to paying a living wage.
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",human,,,1.0
+22,Description,Extract a detailed description of what the RFP is requesting in terms of services or products.,human,This RFP is requesting charter bus services for a corporate event transportation.,"The City of Turlock (hereinafter referred to as the “City”) is requesting proposals for qualified firms to provide fixed route and demand-response paratransit operations and management services. The City invites you to submit a proposal for transit operation and management services of City’s local fixed route and demand response (including paratransit and on-demand) transit services for a fixed contract term in accordance with terms of this RFP,",0.12
+46,Evaluation Criteria,"Extract the criteria against which proposals will be evaluated. Output it in the form similar to example below. Let the output have a similar word count to the example provided below while also maintaining the same form.
+
+Example 
+###############
+25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support
+resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100",human,"25 Points - Management and Technical Competence: ..., 20 Points - Capability and Experience: ..., 5 Points - Financial Viability: ..., 15 Points - Quality of Plans and Submittals: ..., 25 Points - Price Proposal: ..., 10 Points - Retention of Existing Employees: ...","25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support 
+resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness. 
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs. 
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a) 
+Total Points = 100",0.23
+47,Options to Renew,Identify any options for renewing the contract beyond the initial term. Start the statment of by stating when the contrcat will initially be commencing,human,The contract will initially be commencing on 2023-07-01 with three one-year extensions possible.,"The Contract Term for the services to be provided will commence on July 1, 2024, and will consist of a five (5) year base term ending on June 30, 2029, but shall include two (2) one-year options beginning on July 1, 2029 and 2030.",0.23
+48,Bidder References Description,Detail what is expected in bidder references.,human,References should include past clients in similar industries.,,0.0
+49,Disadvantaged Business Requirements,"Note any requirements for disadvantaged business.
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",human,,,1.0
+50,Facility Notes,Provide any specific notes or additional details about facilities.,human,N/A,,0.0
+51,Fleet Requirement Comments,Determine the specified detailed comments about the fleet requirments for different opportunities.,human,Fleet must be less than 5 years old with GPS tracking.,,0.0
+52,Fuel Notes,Fuel additional notes,human,Electric charging stations available on-site.,,0.0
+53,Liquidated Damage Information,Provide details about liquidated damage clauses.,human,Liquidated damages of 1% of contract value per day for delays exceeding 5 days.,,0.0
+54,Liquidated Damages,Extract information about penalties for non-performance.,human,Penalties for late performance are specified in the contract terms.,,0.0
+55,Living Wage Comments,Include any additional comments or explanations about these specific areas.,human,N/A,,0.0
+56,Lost Deal Context,"Extract any contextual details that explain the loss.
+Select from the options given here:
+-Bandwidth and experience issues in competing against larger companies.
+-Lost bids where the company was a subcontractor.
+-Cancellation of RFPs by the issuing authority.
+-Lack of selection with ongoing requests for feedback.
+-Missing partnership elements, such as a lack of a paratransit partner.
+-Overpowered by competitors with more specialized experience or technology.
+-Price undercutting by subcontractors or competitors.
+-Organizational disarray and confusing RFP details making the bid not worthwhile.
+-Specific service requirements like language skills for drivers.
+-The incumbent or existing providers winning due to established services or better pricing.
+-Restrictions in RFPs such as no allowance for subcontracting.
+-Situations where the opportunity is considered too small or is based on ""as needed"" service making it less attractive.",human,Overpowered by competitors with more specialized experience or technology.,,0.0
+57,Maintenance Notes,"Provide any specific notes or additional details about maintenance
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",human,Maintenance must be performed quarterly by the vendor.,,0.0
+58,Parking Notes,Provide any specific notes or additional details about parking,human,Parking for buses is required at the event venue.,,0.0
+59,Supplier Partner,Identify any specified partner organizations or preferred suppliers.,human,Preferred partner organizations listed in Section 5.2 of the RFP.,,0.0
+60,Technology Description,Provide a description of the technology requirements.,human,Advanced tracking and scheduling software required for fleet management.,,0.0

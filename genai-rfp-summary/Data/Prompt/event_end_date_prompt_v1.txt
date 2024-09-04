@@ -1,0 +1,13 @@
+Identify when the base services or contract is set to end. 
+Don't include contract with extensions date.
+Provide your response using the following date format YYYY-MM-DD. 
+Make sure to return only the date value without any additional text or characters.
+
+Few Shot examples: 
+-----------------
+New contract is in effect July 1, 2024. 
+The Base contract duration is 3 year.
+The contract w/extension is 5 years. I don't use that value. 
+Event End Date = Contract Start Date + Base Year Duration - 1 day 
+Event End Date = 2024-07-01 + 3 year - 1 day
+Event End Date = 2027-06-30

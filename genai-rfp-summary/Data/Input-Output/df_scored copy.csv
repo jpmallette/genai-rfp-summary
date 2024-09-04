@@ -1,0 +1,136 @@
+opportunity_name,field,prompt_description,chatgpt_value,sf_value
+"City of Turlock, CA Fixed & DAR 2024",Account Name,List the name of the account or entity issuing the RFP.,City of Turlock,City of Turlock
+"City of Turlock, CA Fixed & DAR 2024",Award Type,Extract the type of award expected. Provide your response either enter 'Single' or 'Multiple'. Make sure to return only the value without any additional text or characters.,Single,Single
+"City of Turlock, CA Fixed & DAR 2024",Bid Submission Documents,Includes detailed specifications and requirements for submitting proposals for RFPs,"Sealed bids for this RFP shall be filed with the Purchasing Division at 156 S. Broadway, Suite 270, Turlock, California, 95380, on or before 3:00 PM on Thursday, January 18, 2024. No late bids will be accepted. Proposers shall submit one (1) original, five (5) hard bound copies and one (1) electronic copy (USB flash drive). Each proposal shall be in the form specified in this RFP, and provided in a sealed envelope addressed to the City of Turlock, Purchasing Officer, at the address set forth in subsection A above, with outside markings stating: (1) RFP No. 23-001; and (2) Do Not Open with Regular Mail.","Sealed bids for this RFP shall be filed with the Purchasing Division at 156 S. Broadway, Suite 270, Turlock, California, 95380, on or before 3:00 PM on Thursday, January 18, 2024. No late bids will be accepted. Proposers shall submit one (1) original, five (5) hard bound copies and one (1) electronic copy (USB flash drive)."
+"City of Turlock, CA Fixed & DAR 2024",Bidder References Description,Detail what is expected in bidder references.,Each certification must be executed by a duly authorized official of the Proposer. The certification forms are in Appendix F.,
+"City of Turlock, CA Fixed & DAR 2024",Bidder References Required,Identify if we need bidder references or not. Provide your response either 'Yes' or 'No'. Make sure to return only the value without any additional text or characters.,Yes,
+"City of Turlock, CA Fixed & DAR 2024",Contact: Email,Provide the email address of the contact person.,transit@turlock.ca.us,
+"City of Turlock, CA Fixed & DAR 2024",Contact: Phone,List the contact person’s phone number.,(209) 669-2800,
+"City of Turlock, CA Fixed & DAR 2024",Contact: Title,Name the primary contact person for the RFP.,"Wayne York, Transit Manager",
+"City of Turlock, CA Fixed & DAR 2024",Contract Duration (Months),"Extract the total duration of the contract in months. 
+Typically it is the event end date - event start date in months.
+Make sure to return only the value without any additional text or characters.",60,72
+"City of Turlock, CA Fixed & DAR 2024",Contract Extension Term,Enter the length of a possible contract extension (in months) of this RFP,24,2
+"City of Turlock, CA Fixed & DAR 2024",Deadline for Questions,Note the final date for submitting any inquiries regarding the RFP. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters. This format plainly provides the date without any additional context.,2023-12-06,2023-12-06
+"City of Turlock, CA Fixed & DAR 2024",Description,Extract a detailed description of what the RFP is requesting in terms of services or products.,The City of Turlock (hereinafter referred to as the “City”) is requesting proposals for qualified firms to provide fixed route and demand-response transit operations and management services.,"The City of Turlock (hereinafter referred to as the “City”) is requesting proposals for qualified firms to provide fixed route and demand-response paratransit operations and management services. The City invites you to submit a proposal for transit operation and management services of City’s local fixed route and demand response (including paratransit and on-demand) transit services for a fixed contract term in accordance with terms of this RFP,"
+"City of Turlock, CA Fixed & DAR 2024",Disadvantaged Business Comments,Any additional informations related to Disadvantaged,"A Disadvantaged Business Enterprise (DBE) is defined as follows: A for-profit small business concern that is: at least 51 percent owned by one or more individuals who are both socially and economically disadvantaged or, in the case of corporation, in which 51 percent of the stock is owned by one or more such individual; and whose management and daily business operations are controlled by one or more of the socially and economically disadvantaged individuals who own it.",
+"City of Turlock, CA Fixed & DAR 2024",Disadvantaged Business Requirements,"Note any requirements for disadvantaged business.
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",Yes,
+"City of Turlock, CA Fixed & DAR 2024",Estimated Contract Value (converted),Determine the estimated total value of the contract.,,13517350
+"City of Turlock, CA Fixed & DAR 2024",Estimated Contract Value (converted) Currency,,,CAD
+"City of Turlock, CA Fixed & DAR 2024",Estimated Supplier Amount (converted),Note the estimated cost associated with fulfilling the contract requirements.,,
+"City of Turlock, CA Fixed & DAR 2024",Estimated Supplier Amount (converted) Currency,Extract the estimated amount expected to be paid to the supplier.,,
+"City of Turlock, CA Fixed & DAR 2024",Evaluation Criteria,"Extract the criteria against which proposals will be evaluated.
+
+Example 
+###############
+25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support
+resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness.
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs.
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a)
+Total Points = 100","Points Possible: 25 - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance. 20 - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements. 5 - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness. 15 - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals. 25 - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs. 10 - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a). Total Points = 100","25 Points - Management and Technical Competence: The quality and competence of the Proposer’s Key Personnel, as well as technical and support 
+resources, to ensure satisfactory performance of services. This includes the Proposer’s approach to management of the services, as well as strategies for enhancing service quality, productivity and/or performance.
+20 Points - Capability and Experience: The overall quality and extent of the Proposer’s experience in fixed route and demand response operations and its demonstrated capability and performance with similar projects, including the Proposer’s record for on-time performance; its safety record; and its overall ability to meet the City’s performance requirements.
+5 Points - Financial Viability The overall financial health of the Proposer, including its liquidity (as measured by standard ratios), its overall financial capacity, its financial reserves and its credit worthiness. 
+15 Points - Quality of Plans and Submittals: The quality and completeness of the Proposer’s Safety Program, Transition and Start-up Plan, Staffing Plan, Training Plan, Innovative Approaches and Technologies, and other related plans and submittals.
+25 Points - Price Proposal Proposals will be evaluated and scored on the basis of the total Contract Price Proposal, which is the sum of the annual prices for the base contract years and the two (2) option years plus the Transition and Start-up Costs. 
+10 Points - Retention of Existing Employees Proposer intends to retain employees from previous contract in accordance with California Labor Code Section 1072(a) 
+Total Points = 100"
+"City of Turlock, CA Fixed & DAR 2024",Event End Date,Determine when the services or contract are scheduled to conclude. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters. This format plainly provides the date without any additional context.,2029-06-30,2030-06-30
+"City of Turlock, CA Fixed & DAR 2024",Event Start Date,Identify when the services or contract are set to begin. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters. This format plainly provides the date without any additional context.,2024-07-01,2024-07-01
+"City of Turlock, CA Fixed & DAR 2024",Facility Notes,Provide any specific notes or additional details about facilities.,"City shall assume responsibility for regular maintenance repairs, including repair of structural or building–related equipment failures not resulting from negligent use or operation of the facility or provided equipment by Contractor and its employees, agents, or vendors. Contractor is to maintain the cleanliness of the transit operations area, remove trash, etc.",
+"City of Turlock, CA Fixed & DAR 2024",Facility Provided by Agency,"Note if the agency provides any facility for the service. Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",Yes,
+"City of Turlock, CA Fixed & DAR 2024",Financial Guarantee Details,Note any financial guarantees required by the RFP.,"Each Proposer shall provide evidence of the Proposer’s ability to obtain (1) the performance bond required under the Draft Operations Agreement, in the form of a letter from a surety company that has an A.M. Best rating of “A” or better and that is authorized to conduct business in California.","Proposal Bond - Each Proposer shall provide a proposal bond or certified check in the amount of $25,000, payable to City of Turlock.
+Performance Bond and Insurance - Each Proposer shall provide evidence of the Proposer’s ability to obtain (1) the performance bond required under the Draft Operations Agreement, in the form of a letter from a surety company that has an A.M. Best rating of “A” or better and that is authorized to conduct business in California, and (2) the insurance coverages required under Section 27 of the Draft Operations Agreement, in the form of a letter from an insurance carrier or broker that has an A.M. Best rating of “A” or better and that is authorized to conduct business in California. These letters should specifically reference the bonding or insurance requirements, as"
+"City of Turlock, CA Fixed & DAR 2024",Fleet Requirement,"Determine if a fleet is required.
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",Yes,
+"City of Turlock, CA Fixed & DAR 2024",Fleet Requirement Comments,Determine the specified detailed comments about the fleet requirments for different opportunities.,"City shall provide sufficient Revenue Vehicles, including spares, for use by Contractor in providing the services required under this Agreement.",
+"City of Turlock, CA Fixed & DAR 2024",Fuel Notes,Fuel additional notes,City shall supply all fuel required to operate City Turlock Transit vehicles.,
+"City of Turlock, CA Fixed & DAR 2024",Fuel Provided By,"Identify who will provide the fuel, if applicable.",City,
+"City of Turlock, CA Fixed & DAR 2024",Incumbent Supplier,Find out who the current supplier is if the contract is a renewal.,Storer Transit Systems,Storrer Transporation Systems
+"City of Turlock, CA Fixed & DAR 2024",Insurance Requirements,Detail the insurance requirements stipulated by the RFP.,"General Liability: Ten Million Dollars ($10,000,000.00) per occurrence for bodily injury, personal injury, and property damage, Workers’ Compensation Insurance and Employer's Liability: One Million Dollars ($1,000,000.00) per accident.","General Liability. Professional shall carry general liability insurance in the amount of Ten Million Dollars ($10,000,000.00) per occurrence for bodily injury, personal injury, and property damage. If commercial general liability insurance or another form with a general aggregate limit is used, either the general aggregate limit shall apply separately to this Project or the general aggregate shall be Ten Million Dollars ($10,000,000.00).
+Workers’ Compensation Insurance and Employer's Liability. Professional shall carry workers’ compensation insurance as required by the State of California under the Labor Code. Professional shall also carry employer’s liability insurance in the amount of One Million Dollars ($1,000,000.00) per accident, with a One Million Dollars ($1,000,000.00) policy limit for bodily injury by disease, and a One Million Dollars ($1,000,000.00) limit for each employee’s bodily injury by disease."
+"City of Turlock, CA Fixed & DAR 2024",Issuing Platform,Note any information about interviews that may be part of the RFP process.,"Notice of Intent to Award will be emailed to the point of contact for each proposal received under the solicitation, posted to City’s website, as well as made available for review at the Office of the Purchasing Officer.",GovWin
+"City of Turlock, CA Fixed & DAR 2024",Last Addendum Date,"Determine the last addendum Date. Provide your response using the following date format YYYY-MM-DD. 
+Make sure to return only the date value without any additional text or characters.",2023-12-18,
+"City of Turlock, CA Fixed & DAR 2024",Liquidated Damage Information,Provide details about liquidated damage clauses.,The sum of $10 for each calendar day on which such individual was required or permitted to work in excess of the standard workweek of forty hours without payment of the overtime wages required.,
+"City of Turlock, CA Fixed & DAR 2024",Liquidated Damages,Extract information about penalties for non-performance.,Yes,
+"City of Turlock, CA Fixed & DAR 2024",Living Wage Comments,Include any additional comments or explanations about these specific areas.,No additional comments or explanations,
+"City of Turlock, CA Fixed & DAR 2024",Living Wage Requirements,"Extract any requirements related to paying a living wage.
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",Yes,
+"City of Turlock, CA Fixed & DAR 2024",Lost Deal Context,"Extract any contextual details that explain the loss.
+Select from the options given here:
+-Bandwidth and experience issues in competing against larger companies.
+-Lost bids where the company was a subcontractor.
+-Cancellation of RFPs by the issuing authority.
+-Lack of selection with ongoing requests for feedback.
+-Missing partnership elements, such as a lack of a paratransit partner.
+-Overpowered by competitors with more specialized experience or technology.
+-Price undercutting by subcontractors or competitors.
+-Organizational disarray and confusing RFP details making the bid not worthwhile.
+-Specific service requirements like language skills for drivers.
+-The incumbent or existing providers winning due to established services or better pricing.
+-Restrictions in RFPs such as no allowance for subcontracting.
+-Situations where the opportunity is considered too small or is based on ""as needed"" service making it less attractive.",Liability for unpaid wages; liquidated damages,
+"City of Turlock, CA Fixed & DAR 2024",Lost Reason,"Determine the reason provided for any lost bids.
+Select from the options given here:
+-RFP - Not highest score
+-RFP - Irrelevant - out of scope
+-RFP - Lack of partner
+-RFP - Cancelled by public authority
+-RFP - Compliance issues
+-RFP - Not enough time to respond
+-RFP - Not lowest price
+-RFP - Too small deal
+-RFP - Lack of supply / too remote
+-RFP - Non-compliant
+-RFP - Agency provides vehicles
+-RFP - Relationship
+-RFP - Paratransit service
+-RFP - Other
+-RFP - Price only bid
+-RFP - Turnaround time
+-RFP - Out of scope
+-RFP - No partners in area
+-RFP - Too small",Not highest score,RFP - Agency provides vehicles
+"City of Turlock, CA Fixed & DAR 2024",Maintenance Notes,"Provide any specific notes or additional details about maintenance
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",Yes,
+"City of Turlock, CA Fixed & DAR 2024",Maintenance Provided by Agency,Identify whether the agency will provide maintenance services.,Yes,
+"City of Turlock, CA Fixed & DAR 2024",Method of Solicitation,"Find out the approach used to solicit the RFP, such as open tender, direct negotiation, etc.",Request for Proposals (RFP),RFP
+"City of Turlock, CA Fixed & DAR 2024",Number of Awarded Vendors,Note how many vendors will be awarded the contract.,1,1
+"City of Turlock, CA Fixed & DAR 2024",Number of Buses,"Identify the number of buses. provide the number 
+without additional text or characters.",7,34
+"City of Turlock, CA Fixed & DAR 2024",Options to Renew,Identify any options for renewing the contract beyond the initial term.,Two (2) one-year options,"The Contract Term for the services to be provided will commence on July 1, 2024, and will consist of a five (5) year base term ending on June 30, 2029, but shall include two (2) one-year options beginning on July 1, 2029 and 2030."
+"City of Turlock, CA Fixed & DAR 2024",Parking Notes,Provide any specific notes or additional details about parking,Parking is available at the Transit Center.,
+"City of Turlock, CA Fixed & DAR 2024",Parking Provided by Agency,"Determine if parking facilities are provided by the agency.
+Provide your response either 'Yes' or 'No'. 
+Make sure to return only the value without any additional text or characters.",Yes,
+"City of Turlock, CA Fixed & DAR 2024",Posted Date,Find the date the RFP was officially posted. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters. This format plainly provides the date without any additional context.,2023-11-08,2023-11-09
+"City of Turlock, CA Fixed & DAR 2024",Pre-Bid Conference,"Provide your response using the following date format YYYY-MM-DD HH:MM am/pm. 
+Make sure to return only the date value without any additional text or characters.",2023-11-29 10:00 AM PDT,"2023-11-29, 10:00 a.m."
+"City of Turlock, CA Fixed & DAR 2024",Prebid Attendance," If there is no Prebid attendance, classify it as “No Prebid”. If the prebid attendance is optional, classify it as “Optional”. If the prebid is not available, classify it as “NaN”. If the prebid is mandatory, classify it as “Mandatory",Optional,
+"City of Turlock, CA Fixed & DAR 2024",Pricing Type,"Extract the pricing structure, such as fixed-price or cost-plus.",Fixed-price,Fixed Monthly Cost and a Rate per Revenue Hour.
+"City of Turlock, CA Fixed & DAR 2024",Proposal Deadline Date,Extract the deadline by which the proposal must be submitted. Provide your response using the following date format YYYY-MM-DD. Make sure to return only the date value without any additional text or characters.,2024-01-18,2024-01-18
+"City of Turlock, CA Fixed & DAR 2024",Proposal Writer,Identify the individual or team responsible for writing the proposal.,,
+"City of Turlock, CA Fixed & DAR 2024",Region Area Name,Extract the specific geographic region or area covered by the RFP.,"City of Turlock, Stanislaus County, California",CA - California Central California Valley Area
+"City of Turlock, CA Fixed & DAR 2024",RFP Name,Note the formal name of the RFP as given in the document.,RFP NO. 23-001 FOR Transit Operations and Management Services,Transit Operations and Management Services
+"City of Turlock, CA Fixed & DAR 2024",RFP Service Type,"Determine the type of service requested in the RFP, such as transportation, IT services, etc.",Transit Operations and Management,Transit
+"City of Turlock, CA Fixed & DAR 2024",Subcontracting Allowed,Note whether subcontracting is permitted under the terms of the RFP. Provide your response either 'Yes' or 'No'. Make sure to return only the value without any additional text or characters.,Yes,0
+"City of Turlock, CA Fixed & DAR 2024",Submission Type,"Identify the required format for submitting proposals, Electronic or Paper. 
+Enter only 1 word without additional context.",Paper,Paper
+"City of Turlock, CA Fixed & DAR 2024",Supplier Partner,Identify any specified partner organizations or preferred suppliers.,,
+"City of Turlock, CA Fixed & DAR 2024",Technology Description,Provide a description of the technology requirements.,,
+"City of Turlock, CA Fixed & DAR 2024",Technology Needed,Do we need technology. Enter Yes or No with no additional word context,,1
+"City of Turlock, CA Fixed & DAR 2024",Technology Partner,Identify any required or preferred technology partners.,,
+"City of Turlock, CA Fixed & DAR 2024",Vehicle Fuel Type,"Identify the vehicle fuel type that will be used for the various forms of transportation. 
+Enter either ""Diesel"", ""Hydrogen"", ""Electric"", ""CNG"". Enter only the values without additional context",CNG,CNG
+"City of Turlock, CA Fixed & DAR 2024",Vehicle Provider,"Identify the expected vehicle provider. Either Bus.com, Agency, Partner / Contractor
+. Enter only one value with no additional context. ",City,Agency

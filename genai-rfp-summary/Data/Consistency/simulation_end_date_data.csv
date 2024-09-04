@@ -1,0 +1,21 @@
+,field,sf_value,opportunity_name,chatgpt_value,run_number,config,field_score_type,score
+0,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,1,gpt-4o_1_v1,binary,1.0
+1,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,2,gpt-4o_1_v1,binary,1.0
+2,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2029-06-30,3,gpt-4o_1_v1,binary,0.0
+3,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,4,gpt-4o_1_v1,binary,1.0
+4,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2024-07-01 + 3 year - 1 day = 2027-06-30,5,gpt-4o_1_v1,binary,0.0
+5,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2029-06-30,6,gpt-4o_1_v1,binary,0.0
+6,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,7,gpt-4o_1_v1,binary,1.0
+7,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2029-06-30,8,gpt-4o_1_v1,binary,0.0
+8,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,9,gpt-4o_1_v1,binary,1.0
+9,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,10,gpt-4o_1_v1,binary,1.0
+10,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,1,gpt-3.5-turbo_1_v1,binary,1.0
+11,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,2,gpt-3.5-turbo_1_v1,binary,1.0
+12,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,3,gpt-3.5-turbo_1_v1,binary,1.0
+13,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,4,gpt-3.5-turbo_1_v1,binary,1.0
+14,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2029-06-30,5,gpt-3.5-turbo_1_v1,binary,0.0
+15,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,6,gpt-3.5-turbo_1_v1,binary,1.0
+16,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,7,gpt-3.5-turbo_1_v1,binary,1.0
+17,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,8,gpt-3.5-turbo_1_v1,binary,1.0
+18,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2027-06-30,9,gpt-3.5-turbo_1_v1,binary,1.0
+19,Event End Date,2027-06-30,"City of Calabasas, CA Fixed 2024",2029-06-30,10,gpt-3.5-turbo_1_v1,binary,0.0

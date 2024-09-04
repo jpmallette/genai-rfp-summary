@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RFP Summary</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { display: flex; height: 100vh; }
+        .left, .right { width: 50%; padding: 20px; box-sizing: border-box; }
+        .left { border-right: 1px solid #ddd; overflow-y: auto; }
+        .right { display: flex; align-items: center; justify-content: center; }
+        .header img { float: left; margin-right: 20px; }
+        .header h1 { line-height: 100px; }
+        .thumbs { cursor: pointer; margin-left: 10px; }
+        .thumbs:hover { color: #007BFF; }
+        .right img { max-width: 100%; height: auto; max-height: 700px; border: none; }
+        .highlight-yellow { background-color: lightyellow; }
+        .highlight-lightgreen { background-color: #90EE90; } /* Light Green */
+        .highlight-green { background-color: #008000; color: white; } /* Dark Green with white text */
+        .legend { margin-top: 20px; font-size: 14px; }
+        .table td:first-child, .table th:first-child { width: 200px; } /* Fixed width for the first column */
+    </style>
+    <script src="https://unpkg.com/htmx.org@1.5.0"></script>
+</head>
+<body>
+    <div class="left">
+        <div class="header d-flex align-items-center mb-4">
+            <img src="{{ url_for('static', filename='images/buscom_logo.jpeg') }}" width="100">
+            <h1>RFP Summary</h1>
+        </div>
+        <div class="category">
+            <div class="card">
+                <div class="card-header bg-primary text-white">Opportunity Information</div>
+                <div class="card-body">
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <td class="font-weight-bold">Account Name:</td>
+                                <td>City of Turlock</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card mt-4">
+                <div class="card-header bg-primary text-white">High Level Summary</div>
+                <div class="card-body">
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <td class="font-weight-bold">Description:</td>
+                                <td>Request for proposals for qualified firms to provide fixed route and demand-response transit operations and management services in Turlock, CA.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card mt-4">
+                <div class="card-header bg-primary text-white">Dates and Deadlines</div>
+                <div class="card-body">
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <td class="font-weight-bold">Posted Date:</td>
+                                <td class="highlight-green">2023-11-08</td>
+                            </tr>
+                            <tr>
+                                <td class="font-weight-bold">Questions Deadline:</td>
+                                <td class="highlight-lightgreen">2023-12-06</td>
+                            </tr>
+                            <tr>
+                                <td class="font-weight-bold">Prebid Attendance:</td>
+                                <td class="highlight-yellow">Optional</td>
+                            </tr>
+                            <tr>
+                                <td class="font-weight-bold">Proposal Deadline:</td>
+                                <td>
+                                    <div id="deadline-cell" class="d-flex align-items-center">
+                                        <form hx-post="/update-deadline" hx-target="#deadline-cell" hx-swap="outerHTML" style="display: flex; align-items: center;" onsubmit="return false;">
+                                            <input type="text" name="new_deadline" value="2024-01-18" class="form-control border-0 p-0" style="color: #007BFF; cursor: pointer;">
+                                            <button type="submit" class="d-none">Update</button>
+                                        </form>
+                                        <span class="thumbs" onclick="submitForm(event);">👍</span>
+                                        <span class="thumbs" onclick="submitForm(event);">👎</span>
+                                        <button class="btn btn-link p-0 ml-2" hx-get="/get-image/RFP-01.png" hx-target="#image-container" hx-swap="innerHTML">📷</button>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="legend">
+                        <p><span class="highlight-green">Green</span>: Accuracy score 100%</p>
+                        <p><span class="highlight-lightgreen">Light Green</span>: Accuracy score 80-90%</p>
+                        <p><span class="highlight-yellow">Yellow</span>: Accuracy score 60-80%</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="right" id="image-container">
+        <p>Click on the camera icon to display the page where the information was found.</p>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        function submitForm(event) {
+            event.preventDefault();
+            event.target.closest('form').submit();
+        }
+    </script>
+</body>
+</html>

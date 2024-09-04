@@ -1,0 +1,64 @@
+field,field_score_type
+Account Name,binary
+Award Type,binary
+Bidder References Required,binary
+Contact: Email,binary
+Contact: Phone,binary
+Contact: Title,binary
+Contract Duration (Months),binary
+Deadline for Questions,binary
+Estimated Contract Value (converted),binary
+Estimated Supplier Amount (converted),binary
+Event End Date,binary
+Event Start Date,binary
+Facility Provided by Agency,binary
+Fleet Requirement,binary
+Fuel Provided By,binary
+Incumbent Supplier,binary
+Issuing Platform,binary
+Last Addendum Date,binary
+Maintenance Provided by Agency,binary
+Number of Awarded Vendors,binary
+Number of Buses,binary
+Parking Provided by Agency,binary
+Posted Date,binary
+Posted Date,binary
+Pre-Bid Conference,binary
+Pre-Bid Conference,binary
+Prebid Attendance,binary
+Prebid Attendance,binary
+Prebid Attendance,binary
+Pricing Type,binary
+Proposal Deadline Date,binary
+Proposal Writer,binary
+RFP Name,binary
+RFP Service Type,binary
+Region Area Kind,binary
+Region Area Name,binary
+Subcontracting Allowed,binary
+Submission Type,binary
+Technology Partner,binary
+Vehicle Fuel Type,binary
+Vehicle Provider,binary
+Bidder References Description,human
+Contract Extension Term,human
+Description,human
+Disadvantaged Business Requirements,human
+Evaluation Criteria,human
+Facility Notes,human
+Financial Guarantee Details,human
+Fleet Requirement Comments,human
+Fuel Notes,human
+Insurance Requirements,human
+Liquidated Damage Information,human
+Liquidated Damages,human
+Living Wage Comments,human
+Living Wage Requirements,human
+Lost Deal Context,human
+Lost Reason,human
+Maintenance Notes,human
+Options to Renew,human
+Parking Notes,human
+Supplier Partner,human
+Technology Description,human
+Technology Needed,human

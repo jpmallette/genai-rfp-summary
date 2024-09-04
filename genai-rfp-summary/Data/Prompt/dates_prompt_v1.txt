@@ -1,0 +1,8 @@
+Read the different pdfs, and return All the different types of dates with 
+the values found in the contract:
+
+Examples:
+-----
+Contract service begin: 2024-07-01
+Contract service base end: 2027-06-30
+Contract service end with extensions: 2029-06-30
